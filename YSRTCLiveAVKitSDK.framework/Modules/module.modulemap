@@ -1,0 +1,6 @@
+framework module YSRTCLiveAVKitSDK {
+  umbrella header "YSRTCLiveAVKitSDK.h"
+  export *
+
+  module * { export * }
+}
