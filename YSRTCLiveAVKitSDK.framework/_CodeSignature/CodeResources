@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/YSRTCAPIConfig.h</key>
 		<data>
-		/cDXjsKxceLwgH9VMsjH+MGS/vM=
+		q0kZRM3TcVIa+KceaEqUwHcOC0w=
 		</data>
 		<key>Headers/YSRTCExpressDefines.h</key>
 		<data>
@@ -24,33 +24,17 @@
 		<data>
 		pvFp7wW5ydUDccYrmaKIdxI7eHk=
 		</data>
-		<key>Headers/YSRTCLiveAddLuckyBagView.h</key>
-		<data>
-		xAJ3PioK/U1jfsx5DFv9ZtXcOEE=
-		</data>
-		<key>Headers/YSRTCLiveBaseCommonPopView.h</key>
-		<data>
-		t4Felv1IqwUebQt9wTkm4j0vmAc=
-		</data>
-		<key>Headers/YSRTCLiveConferenceDefine.h</key>
-		<data>
-		OrHmR0/TqsiTbBdvrjTEu5VrISw=
-		</data>
 		<key>Headers/YSRTCLiveDelegate.h</key>
 		<data>
-		iPIWRGgdWdQMtVrsgX6lJoDWTOg=
+		BsZBNTbpYleCD5R9z9OIMrfLKjQ=
+		</data>
+		<key>Headers/YSRTCLiveRoomModel.h</key>
+		<data>
+		tbB/za1ZkWTnOHMyG+BlEsVmXn0=
 		</data>
 		<key>Headers/YSRTCLiveSettingModel.h</key>
 		<data>
 		yXtdpYMNL/BbWCAw2BJvPD+4WOE=
-		</data>
-		<key>Headers/YSRTCLiveVCConferenceModel.h</key>
-		<data>
-		uGkb/P2GR9anVQO9Mlfn0tr/j+U=
-		</data>
-		<key>Headers/YSRTCLiveVCJoinMemberModel.h</key>
-		<data>
-		YZ11b2zCx2r5qeXSGyEuK7a29O4=
 		</data>
 		<key>Headers/YSRTCMobileRTCAuthService.h</key>
 		<data>
@@ -617,11 +601,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/cDXjsKxceLwgH9VMsjH+MGS/vM=
+			q0kZRM3TcVIa+KceaEqUwHcOC0w=
 			</data>
 			<key>hash2</key>
 			<data>
-			nkznqg0JvR38vjhy4gwOEdrQP4OWjNqDB49Wdoioe+k=
+			XCiJfDCnvU1Y6DJchweD0yuxE/qOfNvBnnIBElftAEY=
 			</data>
 		</dict>
 		<key>Headers/YSRTCExpressDefines.h</key>
@@ -657,48 +641,26 @@
 			3Ynph1trmziT96fu6ZpQR54OWLTZrQrzvd+zwi+jrH4=
 			</data>
 		</dict>
-		<key>Headers/YSRTCLiveAddLuckyBagView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xAJ3PioK/U1jfsx5DFv9ZtXcOEE=
-			</data>
-			<key>hash2</key>
-			<data>
-			HqvH151B4k/s53yeg607hqljL0Mtnd9CoEaOi4ucC8o=
-			</data>
-		</dict>
-		<key>Headers/YSRTCLiveBaseCommonPopView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			t4Felv1IqwUebQt9wTkm4j0vmAc=
-			</data>
-			<key>hash2</key>
-			<data>
-			RzTKvon1j8xPvfQTS58t8hIJ8wlsqTi7eBRizB0Uwvo=
-			</data>
-		</dict>
-		<key>Headers/YSRTCLiveConferenceDefine.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OrHmR0/TqsiTbBdvrjTEu5VrISw=
-			</data>
-			<key>hash2</key>
-			<data>
-			P88nj/hOwQv1uxKYpdTH26XMT1KtwTh0OV4JJ+i8xS0=
-			</data>
-		</dict>
 		<key>Headers/YSRTCLiveDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iPIWRGgdWdQMtVrsgX6lJoDWTOg=
+			BsZBNTbpYleCD5R9z9OIMrfLKjQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			DQwOnMa5fD4VMjE5od9+cF6cd5pv7YPhN1VkZnzQffw=
+			ZRaCH/OpupjIS8wuFwut8198KTbTqkgIPv7teqp4GZY=
+			</data>
+		</dict>
+		<key>Headers/YSRTCLiveRoomModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tbB/za1ZkWTnOHMyG+BlEsVmXn0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Tc8EX3gPGtHnCzaqfzIqYHjKzZIRZ6d9T+JODY5pchw=
 			</data>
 		</dict>
 		<key>Headers/YSRTCLiveSettingModel.h</key>
@@ -710,28 +672,6 @@
 			<key>hash2</key>
 			<data>
 			IwTyZta+KDfgIucGFaBOsMAGn6faPgI+xTvPswcZZgw=
-			</data>
-		</dict>
-		<key>Headers/YSRTCLiveVCConferenceModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			uGkb/P2GR9anVQO9Mlfn0tr/j+U=
-			</data>
-			<key>hash2</key>
-			<data>
-			3mXhZ1dzFvrX89QQaQLXkp93wTFMLV0ZpyauX9r22zE=
-			</data>
-		</dict>
-		<key>Headers/YSRTCLiveVCJoinMemberModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YZ11b2zCx2r5qeXSGyEuK7a29O4=
-			</data>
-			<key>hash2</key>
-			<data>
-			f16DTyc8ZzezRETwKF6Kpcb0am7vqth50wMhY6e4fEs=
 			</data>
 		</dict>
 		<key>Headers/YSRTCMobileRTCAuthService.h</key>

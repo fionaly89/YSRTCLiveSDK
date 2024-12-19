@@ -12,22 +12,29 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@class YSRTCLiveMobileRTCMemberInfo;
-@class YSRTCLiveVCJoinMemberModel;
-@class YSRTCLiveVCConferenceModel;
-@class YSRTCLiveVCAccountModel;
-
 /*!
  @brief 回调框架代理
  */
 @protocol YSRTCLiveMobileRTCMeetingServiceDelegate <NSObject>
 @optional
 
+/// 用户点击购物车事件回调
+/// @param liveRoomInfo 当前直播间信息
+/// @param complete 弹窗时回调
+- (void)ysrtclive_shoppingCartClicked:(YSRTCLiveRoomInfo *)liveRoomInfo
+                             complete:(void(^)(void))complete;
+
+/// 观众点击活动链接
+/// @param liveRoomInfo 当前直播间信息
+/// @param activityLink 活动链接
+- (void)ysrtclive_ActivityClicked:(YSRTCLiveRoomInfo *)liveRoomInfo
+                     activityLink:(NSString *)activityLink;
+
 /// 获取手机系统权限
 /// @param auth 权限信息
 /// @param result 授权结果
 - (void)ysrtclive_obtainAppAuth:(YSRTCLiveAppAuthInfoModel *)auth
-               result:(void(^)(BOOL status))result;
+                         result:(void(^)(BOOL status))result;
 
 /// 检查手机系统权限
 /// @param auth 权限信息
