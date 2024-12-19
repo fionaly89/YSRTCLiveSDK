@@ -12,10 +12,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface YSRTCLiveAddLuckyBagView : YSRTCLiveBaseCommonPopView
 
-+ (YSRTCLiveAddLuckyBagView *)getYSRTCLiveCategorySheetViewWithContents:(NSArray<NSString *> *)contents
-                                                              selectIndex:(NSInteger)selectIndex
-                                                                    sView:(UIView *)sView
-                                                               agreeBlock:(void (^)(NSString *content, NSInteger row))agreeBlock;
++ (YSRTCLiveAddLuckyBagView *)getYSRTCLiveAddLuckyBagViewWithLiveId:(NSString *)liveId
+                                                             inView:(UIView *)view
+                                                      completeblock:(void (^)(BOOL suc))block;
 
 @end
 
