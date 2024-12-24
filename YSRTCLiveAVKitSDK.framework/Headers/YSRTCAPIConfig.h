@@ -19,6 +19,13 @@ NS_ASSUME_NONNULL_BEGIN
 
 @end
 
+@interface YSRTCLiveJoinLiveRoomConfig : NSObject
+
+#pragma mark - 必填选项
+@property (nonatomic, copy) NSString *liveId; //直播间id
+
+@end
+
 @interface YSRTCLiveAppAuthInfoModel : NSObject
 
 @property (nonatomic, assign) YSRTCLiveAPPSysAuth authType; //权限主类型
@@ -33,8 +40,17 @@ NS_ASSUME_NONNULL_BEGIN
 @interface YSRTCLiveRoomInfo : NSObject
 
 @property (nonatomic, copy) NSString *live_id; //直播间id
+@property (nonatomic, copy) NSString *live_roomNo; //直播间房间号
 @property (nonatomic, assign) BOOL beStreamer; //当前角色是否是主播
 @property (nonatomic, assign) YSRTCLiveRoomStatus state; //直播间状态
+
+@end
+
+//主播账号信息
+@interface YSRTCLiveRoomAccountInfo : NSObject
+
+@property (nonatomic, copy) NSString *account_id; //账号id
+@property (nonatomic, copy) NSString *nickName; //账号昵称
 
 @end
 

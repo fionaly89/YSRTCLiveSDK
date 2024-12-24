@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fjau5JF8n6Pp/uQPmR7SS2KuTRI=
+		saMVPkMFktaQxb6geowM72S/P0g=
 		</data>
 		<key>Mask Group.png</key>
 		<data>
@@ -73,6 +73,10 @@
 		<data>
 		b9IkuyyiXC1jG1RdIKPDGbJXkcQ=
 		</data>
+		<key>ic_close_lucky_bug@3x.png</key>
+		<data>
+		LO0M2/YcTnkeq3lN3vtFnbrZVZ0=
+		</data>
 		<key>ic_heart@3x.png</key>
 		<data>
 		6+CUcIRPsW02KGFmmR2t+hx5+X4=
@@ -88,6 +92,14 @@
 		<key>ic_live_exit_clear_screen@3x.png</key>
 		<data>
 		TxEFqHw9MeMcC0sS4gWQPgM+Dw0=
+		</data>
+		<key>ic_pause@3x.png</key>
+		<data>
+		v/38VbFEAf5FZC2R+aS9EJPjbH4=
+		</data>
+		<key>ic_play@3x.png</key>
+		<data>
+		bDWU5Z+QEbyA9otndmTRpKjbdYY=
 		</data>
 		<key>ic_share@3x.png</key>
 		<data>
@@ -165,6 +177,10 @@
 		<data>
 		tRaMWhBZgG8a33+psfeFoByZHJ8=
 		</data>
+		<key>icon-播放@3x.png</key>
+		<data>
+		cS2Ny2P8BEiaQlO2Xxlb+tQp0lI=
+		</data>
 		<key>icons_check_checked@3x.png</key>
 		<data>
 		O41Ov7fL34yUdqPgQreWbapoZCY=
@@ -201,14 +217,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+1MWZiEOdjFuy+yA0mPBrW8vWoM=
+			6DpAJB2stcLu/km5H+I5ahzTFoI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>zhuboBG@3x.png</key>
 		<data>
-		Qcmk0Ut7a908jppoVOHPJ9XF1B8=
+		W9Il3sey/hC6t8+StFpDLSiL0aw=
 		</data>
 		<key>zhubotouxiang.png</key>
 		<data>
@@ -262,6 +278,10 @@
 		<data>
 		+R68hbc+ldkqg3pTc85Qgcz7iUQ=
 		</data>
+		<key>弹框积分@3x.png</key>
+		<data>
+		wCNPyAvpADJ63k5VXT5YgtM3RMA=
+		</data>
 		<key>拖拽-drag@3x.png</key>
 		<data>
 		rvWMKlEAmmFm8iEcRW+SXn8XYto=
@@ -278,9 +298,21 @@
 		<data>
 		JVspkzNEjyNnoYb+cgIUOV1AWmY=
 		</data>
+		<key>播放-粉色@3x.png</key>
+		<data>
+		4SpkyVIpSEzm3QjefVumuZnJFxE=
+		</data>
+		<key>播放-黑色@3x.png</key>
+		<data>
+		8MuX3UEo+1lWpGdzrDoogFLlAak=
+		</data>
 		<key>数字加-number add@3x.png</key>
 		<data>
 		uKgpXJ+EGishJsgu3QUasEDJbXE=
+		</data>
+		<key>未中奖图标@3x.png</key>
+		<data>
+		N0+8YKta/lAJgvtQHXJpoZs3i5U=
 		</data>
 		<key>标清icon@3x.png</key>
 		<data>
@@ -306,6 +338,10 @@
 		<data>
 		ZVoTWjBepV72fjgIt4NPqsIT8rw=
 		</data>
+		<key>照相机-camera@3x.png</key>
+		<data>
+		/reHtM/pxqgPbl/epNyh+3u1oSo=
+		</data>
 		<key>直播播放icon@3x.png</key>
 		<data>
 		rMp2v/eiGvZ58gihI5MpHA5YDEo=
@@ -317,6 +353,10 @@
 		<key>直播间开关icon@3x.png</key>
 		<data>
 		CUQlYfOAQ9yMk/QsOE59UUKLE0A=
+		</data>
+		<key>矩形@3x.png</key>
+		<data>
+		gbuutZj3sR8QiYIV+kS28xNhcag=
 		</data>
 		<key>福袋icon@3x.png</key>
 		<data>
@@ -330,9 +370,21 @@
 		<data>
 		RQSfK+ZhMp/Jem0k3s1i6Ztii/M=
 		</data>
+		<key>自定义福袋@3x.png</key>
+		<data>
+		r6qTi+oxRiIr232/fvkFnnJNQa4=
+		</data>
 		<key>萤石直播logo@3x.png</key>
 		<data>
 		1gXY+OE2acETSbiLQiDasbb+a7s=
+		</data>
+		<key>视频默认定位滑块icon@3x.png</key>
+		<data>
+		+gyMS0hURlidHMH6cAmj7krbLVg=
+		</data>
+		<key>语音留言@3x.png</key>
+		<data>
+		POrAPfaKBsjl83qPWqIMILOXWV4=
 		</data>
 		<key>超清icon@3x.png</key>
 		<data>
@@ -468,6 +520,13 @@
 			9blBk4DHrqtyY3b3YswN8CGEGw9laXpivFKcZ/UMJAg=
 			</data>
 		</dict>
+		<key>ic_close_lucky_bug@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vaeZjxpsudOwjKOVaj50zx6nmLxuTnlQqhOZJYWU0EM=
+			</data>
+		</dict>
 		<key>ic_heart@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -494,6 +553,20 @@
 			<key>hash2</key>
 			<data>
 			iwi9bq/JS/6zc3ZDQ2hmWqISQYYi4CX6ngle801VzYU=
+			</data>
+		</dict>
+		<key>ic_pause@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1Vrg/A1oRJ2eZ92kBNuIJRcxFuNI2zRQhKLElBKcOPQ=
+			</data>
+		</dict>
+		<key>ic_play@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uwqwXZrJxGs0FQmpTbXCFCJkuApCHLaYBQ/uk2kaoio=
 			</data>
 		</dict>
 		<key>ic_share@3x.png</key>
@@ -629,6 +702,13 @@
 			nv4xHxwFIxm+/WjEAag1/BLWp1EpzkUjV65sGIGBBnM=
 			</data>
 		</dict>
+		<key>icon-播放@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VGE/kFdeiouSaZ5nD0929Q3mFMqJJuR9bW1JlmKE0RM=
+			</data>
+		</dict>
 		<key>icons_check_checked@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -689,7 +769,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ja3rQb8OPs8C/KWvvSGQ4QqnltDq1gnMmTOYJq1vPgc=
+			kkWcbUUrVfeeJmgd2lIegEvo+Pctg2s9iH0sB9HCAU4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -698,7 +778,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C66fhiAiYov7XOQGGnuxDp0VMc8jUEvoEh52bgNUvSo=
+			EI51Pt8NR93XhfyKJpzdoSnsqj4X10E2G5UL2EOeBNw=
 			</data>
 		</dict>
 		<key>zhubotouxiang.png</key>
@@ -792,6 +872,13 @@
 			WXYy4yIzk6cDfCjvoqHG1ikTIJnRI8fjsq6toAfIxd8=
 			</data>
 		</dict>
+		<key>弹框积分@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0jDx3W3RFrezZWr7kc4v2+M+Rzw4B8ZfQoRyXXERu8s=
+			</data>
+		</dict>
 		<key>拖拽-drag@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -820,11 +907,32 @@
 			tX75TLdwy/1+RfU3yFa3VIX6OicYE6adZXAfrjIG5Zs=
 			</data>
 		</dict>
+		<key>播放-粉色@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EbJzQV2n41Ev40EvVlm9xQnU58PBGPuoI3GeLrMk7eE=
+			</data>
+		</dict>
+		<key>播放-黑色@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WillXCdTGSPCHkcMAneBNHmGY+l8PKRbaEJ5r7AnXSs=
+			</data>
+		</dict>
 		<key>数字加-number add@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			lTJe8aYUzqB5XZ0l+iqQKmmwu+T+kNg7iXOBGoT8czs=
+			</data>
+		</dict>
+		<key>未中奖图标@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XI2XSvRhIgVroRftPtlaoWh0lHrLpXirXP7hPWA00sk=
 			</data>
 		</dict>
 		<key>标清icon@3x.png</key>
@@ -869,6 +977,13 @@
 			JvDUOysZS3qwNNPaumFpQqxOxiJaf83F8lVWGElxuBw=
 			</data>
 		</dict>
+		<key>照相机-camera@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			u4i+/AQh4XBDumn62caVInLMpn8om/p2aK5o3plLxjg=
+			</data>
+		</dict>
 		<key>直播播放icon@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -888,6 +1003,13 @@
 			<key>hash2</key>
 			<data>
 			ZQDFrf+hybAUwbk3QEcg42IEDYub+U8/kgwbiXZZG60=
+			</data>
+		</dict>
+		<key>矩形@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CTRa+DiXTp4gYeT/kBOeRehOTrt99K2ZX4CvoZl1B/4=
 			</data>
 		</dict>
 		<key>福袋icon@3x.png</key>
@@ -911,11 +1033,32 @@
 			TANrQ8ThWktY07Ua13FV5MELrlXjzseKRmbAcLwwWmA=
 			</data>
 		</dict>
+		<key>自定义福袋@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			66J8+XF2GEBf+aQTJXA0B6nvRv0Jxu8ePCh8zS7zH/c=
+			</data>
+		</dict>
 		<key>萤石直播logo@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			3VoPPbr+onXETNP3sbUMBAFPvV+y/D+Y38ob/FwBR0g=
+			</data>
+		</dict>
+		<key>视频默认定位滑块icon@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q7Z2ywlhA/kHdvGS2mcJ5Ia0F/0w+fHotAfstb+gaPo=
+			</data>
+		</dict>
+		<key>语音留言@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wb2BloigbgsiWndoUdQiHDu+OjRlvbzDVz3eb0iee6I=
 			</data>
 		</dict>
 		<key>超清icon@3x.png</key>

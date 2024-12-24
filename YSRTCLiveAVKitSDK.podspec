@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "YSRTCLiveAVKitSDK"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "EZVIZ 直播SDK YSRTCLiveAVKitSDK."
 
   # This description is used to generate tags and improve search results.
@@ -125,6 +125,9 @@ Pod::Spec.new do |spec|
   spec.dependency 'SDWebImage'
   spec.dependency 'ReactiveObjC'
   spec.dependency 'TZImagePickerController/Basic'
+  spec.dependency 'ZFPlayer'
+  spec.dependency 'ZFPlayer/AVPlayer'
+  spec.dependency 'ZFPlayer/ControlView'
 
   # spec.framework  = "SomeFramework"
   # spec.frameworks = "SomeFramework", "AnotherFramework"

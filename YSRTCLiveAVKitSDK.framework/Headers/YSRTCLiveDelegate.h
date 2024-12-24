@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "RTCEnum.h"
 #import "YSRTCAPIConfig.h"
+#import "YSRTCLiveRoomActivityInfoModel.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -26,9 +27,10 @@ NS_ASSUME_NONNULL_BEGIN
 
 /// 观众点击活动链接
 /// @param liveRoomInfo 当前直播间信息
-/// @param activityLink 活动链接
+/// @param activityInfo 活动信息
 - (void)ysrtclive_ActivityClicked:(YSRTCLiveRoomInfo *)liveRoomInfo
-                     activityLink:(NSString *)activityLink;
+                     activityInfo:(YSRTCLiveRoomActivityInfoModel *)activityInfo
+                         complete:(void(^)(void))complete;
 
 /// 获取手机系统权限
 /// @param auth 权限信息
