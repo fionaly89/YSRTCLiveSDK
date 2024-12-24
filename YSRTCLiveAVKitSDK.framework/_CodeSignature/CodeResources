@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/YSRTCAPIConfig.h</key>
 		<data>
-		2wAQaJZCqNp9IrgHcRDXVcZxxDc=
+		lPHNDGw0/AuNl6A+rqWsSjtwslU=
 		</data>
 		<key>Headers/YSRTCExpressDefines.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/YSRTCLiveAVKitAVSDK.h</key>
 		<data>
-		5d6amdtfD8HQeVk+VbXEz6aQP8I=
+		ombBaWzUlc3YnApaikfgnZ1dTss=
 		</data>
 		<key>Headers/YSRTCLiveAVKitSDK.h</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bsipwBKMv8kpuxxHfAOjU2UOIXA=
+		sdSfOq6Dzr4xaY0tQWsQSGvd8A8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -817,11 +817,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2wAQaJZCqNp9IrgHcRDXVcZxxDc=
+			lPHNDGw0/AuNl6A+rqWsSjtwslU=
 			</data>
 			<key>hash2</key>
 			<data>
-			u8z0HgmVQW7Vi8+QI8y/JP7+qrxlmb3kHXVPA+joY3I=
+			pfHbdOoJgi1MaP/KEukJ6n7frsCmgQwXNz4U6KN5Q9U=
 			</data>
 		</dict>
 		<key>Headers/YSRTCExpressDefines.h</key>
@@ -839,11 +839,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5d6amdtfD8HQeVk+VbXEz6aQP8I=
+			ombBaWzUlc3YnApaikfgnZ1dTss=
 			</data>
 			<key>hash2</key>
 			<data>
-			aHMh0I6dEb4wkpC01ZjJxPGbjvNWf+E4sVsT9eocfn0=
+			MYVIZJrhldfWu7/4CQrrN7a2aJ16hmoSf2g3jvy8OHA=
 			</data>
 		</dict>
 		<key>Headers/YSRTCLiveAVKitSDK.h</key>

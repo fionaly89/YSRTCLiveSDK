@@ -50,6 +50,7 @@ NS_ASSUME_NONNULL_BEGIN
 @interface YSRTCLiveRoomAccountInfo : NSObject
 
 @property (nonatomic, copy) NSString *account_id; //账号id
+@property (nonatomic, copy) NSString *name; //账号用户名
 @property (nonatomic, copy) NSString *nickName; //账号昵称
 
 @end

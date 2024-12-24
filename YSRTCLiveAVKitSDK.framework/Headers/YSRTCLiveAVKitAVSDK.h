@@ -33,7 +33,7 @@ NS_ASSUME_NONNULL_BEGIN
 /// 发起直播
 /// @param authService 鉴权信息
 /// @param navi 导航控制器
-/// @param successFn 成功回调
+/// @param successFn 成功回调，vc:直播控制器，accountInfo:主播信息
 /// @param failFn 失败回调
 - (void)startLiveRTCWithAuthService:(YSRTCLiveMobileRTCAuthService *)authService
                                navi:(UINavigationController *)navi
@@ -44,7 +44,7 @@ NS_ASSUME_NONNULL_BEGIN
 /// @param authService 鉴权信息
 /// @param navi 导航控制器
 /// @param config 参数
-/// @param successFn 成功回调
+/// @param successFn 成功回调，vc:直播控制器，accountInfo:主播信息
 /// @param failFn 失败回调
 - (void)enterLiveRoomWithAuthService:(YSRTCLiveMobileRTCAuthService *)authService
                                 navi:(UINavigationController *)navi
