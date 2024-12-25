@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/RTCEnum.h</key>
 		<data>
-		hu+Qn6fxg1i/oEOzKfBIdP4AcKU=
+		lzd2GSwOfj4Y0rgutfm1bP11vBM=
 		</data>
 		<key>Headers/YSRTCAPIConfig.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Headers/YSRTCLiveDelegate.h</key>
 		<data>
-		t7SUTqftFjPvC2CIDzeLnBUqwE0=
+		6s7yM2gOnp16F4VnvLSd8USC7Es=
 		</data>
 		<key>Headers/YSRTCLiveLuckyBagDetailModel.h</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		sdSfOq6Dzr4xaY0tQWsQSGvd8A8=
+		PMuu6KPAgHfNdm2wfrzafVMvzGc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -806,11 +806,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hu+Qn6fxg1i/oEOzKfBIdP4AcKU=
+			lzd2GSwOfj4Y0rgutfm1bP11vBM=
 			</data>
 			<key>hash2</key>
 			<data>
-			YvuHvv/Vzr2xWXGvR335oDCjF01elE9KG/szorT6mew=
+			F3XLD1K3mGjFVaTCEk7XZX0HU7CquFk0fI/IRplfbDM=
 			</data>
 		</dict>
 		<key>Headers/YSRTCAPIConfig.h</key>
@@ -916,11 +916,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t7SUTqftFjPvC2CIDzeLnBUqwE0=
+			6s7yM2gOnp16F4VnvLSd8USC7Es=
 			</data>
 			<key>hash2</key>
 			<data>
-			BgMnm4Ep/M7ap+yGu86RIFwQCfxom3ZMT2wNO9DRc10=
+			D0i/iH1VaK0xLF51DnkdIz4BXfI5ow9gjASPavFgD70=
 			</data>
 		</dict>
 		<key>Headers/YSRTCLiveLuckyBagDetailModel.h</key>

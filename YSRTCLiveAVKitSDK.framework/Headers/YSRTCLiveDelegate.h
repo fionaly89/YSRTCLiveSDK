@@ -21,16 +21,21 @@ NS_ASSUME_NONNULL_BEGIN
 
 /// 用户点击购物车事件回调
 /// @param liveRoomInfo 当前直播间信息
+/// @param streamerInfo 主播信息
 /// @param complete 弹窗时回调
 - (void)ysrtclive_shoppingCartClicked:(YSRTCLiveRoomInfo *)liveRoomInfo
-                             complete:(void(^)(void))complete;
+                         streamerInfo:(YSRTCLiveRoomAccountInfo *)streamerInfo
+                             complete:(void(^)(YSRTCLivePopViewCompleteType completeType))complete;
 
 /// 观众点击活动链接
 /// @param liveRoomInfo 当前直播间信息
+/// @param streamerInfo 主播信息
 /// @param activityInfo 活动信息
+/// @param complete 弹窗时回调
 - (void)ysrtclive_ActivityClicked:(YSRTCLiveRoomInfo *)liveRoomInfo
+                     streamerInfo:(YSRTCLiveRoomAccountInfo *)streamerInfo
                      activityInfo:(YSRTCLiveRoomActivityInfoModel *)activityInfo
-                         complete:(void(^)(void))complete;
+                         complete:(void(^)(YSRTCLivePopViewCompleteType completeType))complete;
 
 /// 获取手机系统权限
 /// @param auth 权限信息

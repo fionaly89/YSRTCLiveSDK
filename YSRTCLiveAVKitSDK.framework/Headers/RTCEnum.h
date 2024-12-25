@@ -29,4 +29,10 @@ typedef NS_ENUM(NSUInteger, YSRTCLiveAPPSysAuthSubType) {
     Auth_album_cover = 100, //设置直播间封面-相册
 };
 
+//弹窗状态
+typedef enum : NSUInteger {
+    ysCompleteType_pop, //弹窗
+    ysCompleteType_dismiss //隐藏
+} YSRTCLivePopViewCompleteType;
+
 NS_ASSUME_NONNULL_END
