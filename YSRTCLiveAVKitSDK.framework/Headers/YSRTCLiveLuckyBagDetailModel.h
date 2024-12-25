@@ -43,6 +43,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic, assign) BOOL needRefresh;                // 中途进入直播间，需要补全数据
 @property (nonatomic, assign) BOOL needEnroll;                 // 观众点击了发表评论加入福袋
+@property (nonatomic, assign) BOOL isBand;                     // 观众被禁言
 
 
 - (void)updateWithLiveLuckyBagLaunchNotify:(LiveLuckyBagLaunchNotify *)notify;
