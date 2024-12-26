@@ -39,9 +39,7 @@ typedef enum : NSUInteger {
 @property (nonatomic, strong) NSString *logo; //直播间logo
 @property (nonatomic, assign) int live_res; // 直播清晰度：1：高清（720p）；2：超清(1080p)；3：标清（480p）
 
-//@property (nonatomic, strong) YSRTCLiveVCAccountModel *account; //创建人
 @property (nonatomic, strong) YSRTCLiveVCRoomModel *room; //会议房间
-//@property (nonatomic, strong) YSRTCLiveVCCorporationModel *corporation; //所属企业
 
 @end
 
