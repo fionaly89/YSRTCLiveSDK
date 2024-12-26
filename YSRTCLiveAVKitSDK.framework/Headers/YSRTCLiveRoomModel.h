@@ -34,13 +34,14 @@ typedef enum : NSUInteger {
 @property (nonatomic, strong) NSString *account_id; //创建人ID
 @property (nonatomic, strong) NSString *corp_id; //所属企业ID
 @property (nonatomic, strong) NSString *room_id; //直播会议房间ID
+@property (nonatomic, strong) NSString *room_no; //直播会议房间号
 @property (nonatomic, strong) NSString *category_id; //直播间分类
 @property (nonatomic, strong) NSString *logo; //直播间logo
 @property (nonatomic, assign) int live_res; // 直播清晰度：1：高清（720p）；2：超清(1080p)；3：标清（480p）
 
-@property (nonatomic, strong) YSRTCLiveVCAccountModel *account; //创建人
+//@property (nonatomic, strong) YSRTCLiveVCAccountModel *account; //创建人
 @property (nonatomic, strong) YSRTCLiveVCRoomModel *room; //会议房间
-@property (nonatomic, strong) YSRTCLiveVCCorporationModel *corporation; //所属企业
+//@property (nonatomic, strong) YSRTCLiveVCCorporationModel *corporation; //所属企业
 
 @end
 
