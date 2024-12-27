@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/YSRTCLiveAVKitAVSDK.h</key>
 		<data>
-		ombBaWzUlc3YnApaikfgnZ1dTss=
+		I1otmHYdzhPEKgy0eunVTL/LKZw=
 		</data>
 		<key>Headers/YSRTCLiveAVKitSDK.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Headers/YSRTCLiveDelegate.h</key>
 		<data>
-		6s7yM2gOnp16F4VnvLSd8USC7Es=
+		0NxBWvlpxEO7vIWmUEsuCexDgz0=
 		</data>
 		<key>Headers/YSRTCLiveLuckyBagDetailModel.h</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Headers/YSRTCLiveSettingModel.h</key>
 		<data>
-		Sr7Vv9Pf6iswQybP5GM+b03deS8=
+		OdiIDy02NExtg7LeQ197ngU0e6s=
 		</data>
 		<key>Headers/YSRTCMobileRTCAuthService.h</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LRXOfK1pEayS1ey4ujTdb+4YZ2k=
+		faCT0FFJKEKHblq3cTD7Yg7yN7o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -839,11 +839,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ombBaWzUlc3YnApaikfgnZ1dTss=
+			I1otmHYdzhPEKgy0eunVTL/LKZw=
 			</data>
 			<key>hash2</key>
 			<data>
-			MYVIZJrhldfWu7/4CQrrN7a2aJ16hmoSf2g3jvy8OHA=
+			0hlurkdeEQTueIaVUARmNtC2L2GywLIllkFEMUK9HRk=
 			</data>
 		</dict>
 		<key>Headers/YSRTCLiveAVKitSDK.h</key>
@@ -916,11 +916,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6s7yM2gOnp16F4VnvLSd8USC7Es=
+			0NxBWvlpxEO7vIWmUEsuCexDgz0=
 			</data>
 			<key>hash2</key>
 			<data>
-			D0i/iH1VaK0xLF51DnkdIz4BXfI5ow9gjASPavFgD70=
+			b6Zl901KrdwXfoopLFF6PaAofghnaVptXmFw8XHvtCY=
 			</data>
 		</dict>
 		<key>Headers/YSRTCLiveLuckyBagDetailModel.h</key>
@@ -993,11 +993,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Sr7Vv9Pf6iswQybP5GM+b03deS8=
+			OdiIDy02NExtg7LeQ197ngU0e6s=
 			</data>
 			<key>hash2</key>
 			<data>
-			vdaTsF4+jm6g0m1ZJ7oMwIlSjdNE2C2XQX2DRuU6a0c=
+			9OMYBKZ4HnDeidQMEwVRtWlnVR7pEHb8wPvIX/9GFrs=
 			</data>
 		</dict>
 		<key>Headers/YSRTCMobileRTCAuthService.h</key>

@@ -28,7 +28,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong) NSString *device_id;
 
 #pragma mark - SDK 是否保存日志
-//控制是否将日志写入本地文件，建议 DEBUG模式下设置成 NO
+//控制是否将日志写入本地文件，默认开启，建议 DEBUG模式下设置成 NO
 @property (nonatomic, assign) BOOL enableLog;
 
 //SDK 主题色

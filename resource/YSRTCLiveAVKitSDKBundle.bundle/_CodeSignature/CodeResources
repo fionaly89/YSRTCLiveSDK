@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jzxplwGKlpfoINH5Erepz3koPRo=
+		20aQGlZY5RZzgykdyDX8MAX/9uM=
 		</data>
 		<key>Mask Group.png</key>
 		<data>
@@ -217,7 +217,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t07Oq78kW9KJRxdZE7zIIpMxfTc=
+			nlNhEGkjpmbCAI2pX8QnuErSmAE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -409,6 +409,10 @@
 		<key>高清icon@3x.png</key>
 		<data>
 		6xG9d66x9/0qoYIkYSw85sQU4jw=
+		</data>
+		<key>默认头像.png</key>
+		<data>
+		k0D/lnY07Aa8TpTd/cR2LM8HdkY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -769,7 +773,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3j82SMeyNY/qP1BR+wCB1RRw6rMwTCp619hYEGLizRA=
+			OBD8zF/2bBDn8WBWOaiomJul6HJYHeADSq+bxOKc08Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1101,6 +1105,13 @@
 			<key>hash2</key>
 			<data>
 			AXvMutnKtdqSKqZVI9K5gUUXWLds84bhM1AQyAHGAxs=
+			</data>
+		</dict>
+		<key>默认头像.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			avQitjHlsktGnp5PZwuklRVDUlA9mrnKIVhuTtv2A0U=
 			</data>
 		</dict>
 	</dict>

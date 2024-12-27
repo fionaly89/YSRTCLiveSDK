@@ -64,6 +64,11 @@ NS_ASSUME_NONNULL_BEGIN
                            successCallback:(void(^)(UIViewController *vc))successFn
                               failCallBack:(void(^)(NSError *error))failFn;
 
+/// 通知sdk当前直播间商品数量
+/// @param liveId 直播间ID
+/// @param count 商品数量
+- (void)notifyCartQuantity:(NSString *)liveId count:(int)count;
+
 //通知直播组件退出登录
 - (void)logoutLiveSDK;
 

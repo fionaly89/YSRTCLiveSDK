@@ -50,6 +50,14 @@ NS_ASSUME_NONNULL_BEGIN
 //SDK token 失效登出
 - (void)ysrtclive_onVisitorLogOut;
 
+#pragma mark - sdk 主动调用APP
+
+/// 获取直播间购物车商品数量
+/// @param liveRoomInfo 直播间信息
+/// @param result 商品数量
+- (void)ysrtclive_obtainCartQuantity:(YSRTCLiveRoomInfo *)liveRoomInfo
+                              result:(void(^)(int count))result;
+
 @end
 
 
