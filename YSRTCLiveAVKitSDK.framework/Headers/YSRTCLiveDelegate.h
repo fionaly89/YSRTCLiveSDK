@@ -17,6 +17,12 @@ NS_ASSUME_NONNULL_BEGIN
  @brief 回调框架代理
  */
 @protocol YSRTCLiveMobileRTCMeetingServiceDelegate <NSObject>
+
+@required
+//获取当前用户个人信息
+- (void)ysrtcLiveGetUserInfoByUserId:(NSString *)userId
+                          completion:(void (^)(YSRTCLiveMemberInfo *memberInfo))completion;
+
 @optional
 
 /// 用户点击购物车事件回调
