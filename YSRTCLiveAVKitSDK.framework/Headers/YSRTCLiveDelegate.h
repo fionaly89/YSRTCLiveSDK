@@ -56,6 +56,16 @@ NS_ASSUME_NONNULL_BEGIN
 //SDK token 失效登出
 - (void)ysrtclive_onVisitorLogOut;
 
+#pragma mark - 直播间通知
+
+/// 进入直播间回调
+/// @param liveRoomInfo 直播间信息
+- (void)onEnterYSRTCLiveRoom:(YSRTCLiveVCConferenceInfoModel *)liveRoomInfo;
+
+/// 退出直播间回调
+/// @param liveRoomInfo 直播间信息
+- (void)onExitYSRTCLiveRoom:(YSRTCLiveVCConferenceInfoModel *)liveRoomInfo;
+
 #pragma mark - sdk 主动调用APP
 
 /// 获取直播间购物车商品数量

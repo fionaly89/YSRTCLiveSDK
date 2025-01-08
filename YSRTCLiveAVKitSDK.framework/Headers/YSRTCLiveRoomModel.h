@@ -12,6 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 @class YSRTCLiveVCAccountModel;
 @class YSRTCLiveVCRoomModel;
 @class YSRTCLiveVCCorporationModel;
+@class YSRTCLiveVCConferenceInfoModel;
 
 //（0：待开播；1：直播中；2：直播暂停；3：已结束；4：删除）
 typedef enum : NSUInteger {
