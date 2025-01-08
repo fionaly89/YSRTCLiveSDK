@@ -60,11 +60,11 @@ NS_ASSUME_NONNULL_BEGIN
 
 /// 进入直播间回调
 /// @param liveRoomInfo 直播间信息
-- (void)onEnterYSRTCLiveRoom:(YSRTCLiveVCConferenceInfoModel *)liveRoomInfo;
+- (void)onEnterYSRTCLiveRoom:(YSRTCLiveRoomInfo *)liveRoomInfo;
 
 /// 退出直播间回调
 /// @param liveRoomInfo 直播间信息
-- (void)onExitYSRTCLiveRoom:(YSRTCLiveVCConferenceInfoModel *)liveRoomInfo;
+- (void)onExitYSRTCLiveRoom:(YSRTCLiveRoomInfo *)liveRoomInfo;
 
 #pragma mark - sdk 主动调用APP
 
