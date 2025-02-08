@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "YSRTCLiveAVKitSDK"
-  spec.version      = "1.0.15"
+  spec.version      = "1.0.16"
   spec.summary      = "EZVIZ 直播SDK YSRTCLiveAVKitSDK."
 
   # This description is used to generate tags and improve search results.
