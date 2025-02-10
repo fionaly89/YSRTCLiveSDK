@@ -16,6 +16,8 @@ NS_ASSUME_NONNULL_BEGIN
                                                              inView:(UIView *)view
                                                       completeblock:(void (^)(BOOL suc))block;
 
+- (void)loadData;
+
 @end
 
 NS_ASSUME_NONNULL_END

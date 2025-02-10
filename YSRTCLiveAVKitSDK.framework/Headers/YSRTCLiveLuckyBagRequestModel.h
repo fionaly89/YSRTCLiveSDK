@@ -17,6 +17,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, assign) NSInteger lucky_bag_type;        // 福袋类型（1：积分；2：自定义）
 @property (nonatomic, assign) NSInteger grab_type;             // 福袋打开方式（1：拼手气；2：固定分配）
 @property (nonatomic, assign) NSInteger lucky_bag_num;         // 福袋数量
+@property (nonatomic, assign) NSInteger lucky_bag_num_grab1;   // 拼手气福袋数量
+@property (nonatomic, assign) NSInteger lucky_bag_num_grab2;   // 固定分配福袋数量
 @property (nonatomic, assign) NSInteger unit_points_num;       // 单个福袋积分数量
 @property (nonatomic, assign) NSInteger total_points_num;      // 积分总数
 @property (nonatomic, strong) NSString *award_name;            // 奖品名称
