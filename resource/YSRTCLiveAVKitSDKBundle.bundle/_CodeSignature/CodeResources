@@ -4,6 +4,14 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Battery@3x.png</key>
+		<data>
+		fsgq5n1R5GsDmqBKsDx3q9rAEVE=
+		</data>
+		<key>Battery_lightning@3x.png</key>
+		<data>
+		bK4bSmTIurwmDHb3cT8O2neyYac=
+		</data>
 		<key>DuxCheckbox@3x.png</key>
 		<data>
 		bUNGH5p+ZsnrnPCg7L3qaXOCtIE=
@@ -14,15 +22,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KBKw29Czbq7jTPolhmhgORdjMRw=
+		BIW1Fk48XzIesJV+OcFgZFM3oeU=
 		</data>
 		<key>Mask Group.png</key>
 		<data>
 		9nxrcD/MYjQ0bU1PTo3GREZbxYs=
 		</data>
+		<key>Wi-Fi@3x.png</key>
+		<data>
+		qcqmCN0wrxhqeS0VKs9wYv717io=
+		</data>
 		<key>angle-mask@3x.png</key>
 		<data>
 		IU0NKQTi3SGKWYN7SQhgQNQi1Hg=
+		</data>
+		<key>common_arrows_big_bigleft2@3x.png</key>
+		<data>
+		QyFLHpOc0QHc9bniKGZ6Xh0AM70=
 		</data>
 		<key>common_arrows_big_bigleft@3x.png</key>
 		<data>
@@ -105,6 +121,10 @@
 		<data>
 		aywSRhrbVfmZtiuYTkjH+vKnZ5Y=
 		</data>
+		<key>ic_share_dm_off@3x.png</key>
+		<data>
+		wpEDIjdFivxlmRhUYXQrFJXBZv0=
+		</data>
 		<key>ic_shop@3x.png</key>
 		<data>
 		PJB7pi5BBS7Eg82Ps37kDlRu6II=
@@ -161,6 +181,10 @@
 		<data>
 		Wru1EgpjTmurluQ09ZVnqo5KzyI=
 		</data>
+		<key>ic_底部导航_更多2@3x.png</key>
+		<data>
+		mwaAuuusIbZEpUaly/TIPFtKX68=
+		</data>
 		<key>ic_底部导航_更多@3x.png</key>
 		<data>
 		mwaAuuusIbZEpUaly/TIPFtKX68=
@@ -173,9 +197,17 @@
 		<data>
 		sErpaXptMR7NoBFbaoFyzrmrrrw=
 		</data>
+		<key>ic_底部导航_购物车2@3x.png</key>
+		<data>
+		VNsceVe/yBqxRNRhurD1jS+wwJ4=
+		</data>
 		<key>ic_底部导航_购物车@3x.png</key>
 		<data>
 		tRaMWhBZgG8a33+psfeFoByZHJ8=
+		</data>
+		<key>icn_barrage_on@3x.png</key>
+		<data>
+		3OY81bNH63nl6jP0ouQzXHXsk/Y=
 		</data>
 		<key>icon-播放@3x.png</key>
 		<data>
@@ -241,6 +273,14 @@
 		<key>优惠活动icon@3x.png</key>
 		<data>
 		HVYoDt3yfOFOQj+spFZjTUB58dU=
+		</data>
+		<key>分享ic@3x.png</key>
+		<data>
+		q0u15M/dpG2xxPXsJa8wLNiFgNs=
+		</data>
+		<key>分享ic_black@3x.png</key>
+		<data>
+		B8Bgd/yiA6q5qZcJyGPxTz00Vxg=
 		</data>
 		<key>分类icon@3x.png</key>
 		<data>
@@ -413,6 +453,20 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Battery@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5WG68FNMqUS7AojjiBwhdRzkCs3L/9HtLuC01vcgEEU=
+			</data>
+		</dict>
+		<key>Battery_lightning@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eoRWcIawPRyL8kYU6CeKbWRu1LBYNLVzNpmqawQK5UM=
+			</data>
+		</dict>
 		<key>DuxCheckbox@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -434,11 +488,25 @@
 			1FiRnvU94cWNossFxNfFnu7sZPQiql9WNVDcymX1x+Q=
 			</data>
 		</dict>
+		<key>Wi-Fi@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NCskMi8t9StRSbLDUdJJmHy17k45wGn0NDfi39t0IdE=
+			</data>
+		</dict>
 		<key>angle-mask@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			+WBG+ho2caSUNPGDyURsTVgwBjS5GVLaRBcQcMoE0F0=
+			</data>
+		</dict>
+		<key>common_arrows_big_bigleft2@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			siLLHR8cHzNwY+ZNN5G+FHXhQnX91b+y5N6RVDB0KOo=
 			</data>
 		</dict>
 		<key>common_arrows_big_bigleft@3x.png</key>
@@ -576,6 +644,13 @@
 			pMuFNJJ8ClJ7MCXEyQHU5WDFwSqrkN8rczUE8KSCPIM=
 			</data>
 		</dict>
+		<key>ic_share_dm_off@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AksIMzJpv00TI9cdmmYCtERi+k3St4vOnHGGFXsOTC4=
+			</data>
+		</dict>
 		<key>ic_shop@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -674,6 +749,13 @@
 			2FgA6gm5RSteVH0AzNp91+Wn8FoPHsbxtvcsKoJdEjQ=
 			</data>
 		</dict>
+		<key>ic_底部导航_更多2@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OIZzXYYiGw0NjBTLQ3fdsh4RV+FUiBoQayCTHTrK3f8=
+			</data>
+		</dict>
 		<key>ic_底部导航_更多@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -695,11 +777,25 @@
 			jW9SATAs57tqFuja5cAwpO4nlp+NwqFFY/7GQqDiqJ8=
 			</data>
 		</dict>
+		<key>ic_底部导航_购物车2@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R8ARYdH5jM9tEavA9GsPgoLvdjhsbaIAs9dRNDRwvbw=
+			</data>
+		</dict>
 		<key>ic_底部导航_购物车@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			nv4xHxwFIxm+/WjEAag1/BLWp1EpzkUjV65sGIGBBnM=
+			</data>
+		</dict>
+		<key>icn_barrage_on@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mRy+BoSd4MdKNbp9JDQVu6gW4n6kew/M4jKJ1CBX7Wo=
 			</data>
 		</dict>
 		<key>icon-播放@3x.png</key>
@@ -807,6 +903,20 @@
 			<key>hash2</key>
 			<data>
 			qULDcAYuBPkpnhrydMYAIQY67PinNLT9yefhb1eh5Mw=
+			</data>
+		</dict>
+		<key>分享ic@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a2jkJDcm0GieGHhdzwbnpIHT+64uIHFaNLZ/ZNg5jbw=
+			</data>
+		</dict>
+		<key>分享ic_black@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KMcOhS+l9iEmNCAPjOIEopW46ej4Zwq1jC7abVC9N7s=
 			</data>
 		</dict>
 		<key>分类icon@3x.png</key>
