@@ -29,9 +29,17 @@ NS_ASSUME_NONNULL_BEGIN
 /// @param liveRoomInfo 当前直播间信息
 /// @param streamerInfo 主播信息
 /// @param complete 弹窗时回调
-- (UIView *)ysrtclive_shoppingCartClicked:(YSRTCLiveRoomInfo *)liveRoomInfo
-                             streamerInfo:(YSRTCLiveRoomAccountInfo *)streamerInfo
-                                 complete:(void(^)(YSRTCLivePopViewCompleteType completeType))complete;
+- (void)ysrtclive_shoppingCartClicked:(YSRTCLiveRoomInfo *)liveRoomInfo
+                         streamerInfo:(YSRTCLiveRoomAccountInfo *)streamerInfo
+                             complete:(void(^)(YSRTCLivePopViewCompleteType completeType))complete;
+
+/// 用户点击分享功能事件回调-竖屏
+/// @param liveRoomInfo 当前直播间信息
+/// @param streamerInfo 主播信息
+/// @param complete 弹窗时回调
+- (void)ysrtclive_shareBtnClicked:(YSRTCLiveRoomInfo *)liveRoomInfo
+                     streamerInfo:(YSRTCLiveRoomAccountInfo *)streamerInfo
+                         complete:(void(^)(YSRTCLivePopViewCompleteType completeType))complete;
 
 /// 观众点击活动链接
 /// @param liveRoomInfo 当前直播间信息
@@ -75,12 +83,20 @@ NS_ASSUME_NONNULL_BEGIN
                               result:(void(^)(int count))result;
 
 /// 获取共享横屏弹窗视图
+/// @param liveRoomInfo 当前直播间信息
+/// @param streamerInfo 主播信息
 /// @param result 关闭当前视图
-- (UIView *)ysrtclive_getSharePopViewByResult:(void(^)(void))result;
+- (UIView *)ysrtclive_getSharePopViewByInfo:(YSRTCLiveRoomInfo *)liveRoomInfo
+                               streamerInfo:(YSRTCLiveRoomAccountInfo *)streamerInfo
+                                     result:(void(^)(void))result;
 
 /// 获取购物车横屏弹窗视图
+/// @param liveRoomInfo 当前直播间信息
+/// @param streamerInfo 主播信息
 /// @param result 关闭当前视图
-- (UIView *)ysrtclive_getShopingCartPopViewByResult:(void(^)(void))result;
+- (UIView *)ysrtclive_getShopingCartPopViewByInfo:(YSRTCLiveRoomInfo *)liveRoomInfo
+                                     streamerInfo:(YSRTCLiveRoomAccountInfo *)streamerInfo
+                                           result:(void(^)(void))result;
 
 @end
 
