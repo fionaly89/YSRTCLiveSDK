@@ -31,7 +31,9 @@ typedef NS_ENUM(NSUInteger, YSRTCLiveAPPSysAuthSubType) {
 
 //弹窗状态
 typedef enum : NSUInteger {
+    ysCompleteType_will_pop, //即将弹窗
     ysCompleteType_pop, //弹窗
+    ysCompleteType_will_dismiss, //即将隐藏
     ysCompleteType_dismiss //隐藏
 } YSRTCLivePopViewCompleteType;
 

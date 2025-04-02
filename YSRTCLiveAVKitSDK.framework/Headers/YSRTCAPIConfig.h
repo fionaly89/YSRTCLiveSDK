@@ -44,6 +44,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, assign) BOOL beStreamer; //当前角色是否是主播
 @property (nonatomic, assign) YSRTCLiveRoomStatus state; //直播间状态
 @property (nonatomic, strong) NSString *live_logo;     // 直播间封面
+@property (nonatomic, strong) NSString *logo_thumbnail;
 @property (nonatomic, strong) NSString *live_title;     // 直播间标题
 
 @end

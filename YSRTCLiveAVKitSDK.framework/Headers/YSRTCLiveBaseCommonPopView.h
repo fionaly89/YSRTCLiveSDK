@@ -8,6 +8,13 @@
 
 #import <UIKit/UIKit.h>
 
+// 弹窗显示通知
+extern NSString *const YSRTCLivePopViewWillShowNotification;
+extern NSString *const YSRTCLivePopViewDidShowNotification;
+// 弹窗消失通知
+extern NSString *const YSRTCLivePopViewWillDismissNotification;
+extern NSString *const YSRTCLivePopViewDidDismissNotification;
+
 NS_ASSUME_NONNULL_BEGIN
 
 @interface YSRTCLiveBaseCommonPopView : UIView
