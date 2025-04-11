@@ -14,10 +14,15 @@ extern NSString *const YSRTCLivePopCenterViewDidShowNotification;
 // 弹窗消失通知
 extern NSString *const YSRTCLivePopCenterViewWillDismissNotification;
 extern NSString *const YSRTCLivePopCenterViewDidDismissNotification;
+// 强制关闭所有弹窗通知
+extern NSString *const YSRTCLivePopCenterViewForceDismissAllNotification;
 
 NS_ASSUME_NONNULL_BEGIN
 
 @interface YSRTCLiveBaseCommonPopCenterView : UIView
+
+// 强制关闭所有弹窗实例
++ (void)forceDismissAllPopViews:(BOOL)animation;
 
 //可以在子类覆盖
 @property (nonatomic, strong) UIView *contentBGView;

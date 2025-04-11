@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LrrJqpJoDU6LDNcB3wzB9sTgqxc=
+		FccYlPmcneWnuyuFDBMUledE07c=
 		</data>
 		<key>Mask Group.png</key>
 		<data>
@@ -237,6 +237,10 @@
 		<data>
 		1y2zqgo2PlYVRHu52baQXJPdjVc=
 		</data>
+		<key>on@3x.png</key>
+		<data>
+		tHw1vST/BEzriEWkHWyE3ini20Q=
+		</data>
 		<key>success@3x.png</key>
 		<data>
 		ig1QlCw+pHWgW5cPezA0ClkaQ2A=
@@ -445,6 +449,10 @@
 		<key>镜头翻转icon@3x.png</key>
 		<data>
 		TC+qTAHF/+tWgKWHHTAZ0swCRSs=
+		</data>
+		<key>静音@3x.png</key>
+		<data>
+		YdAOMn7hMRIJVjOyExccCYNgllc=
 		</data>
 		<key>高清icon@3x.png</key>
 		<data>
@@ -851,6 +859,13 @@
 			B7KMuI4Bou5JZqzpOuScz/SX54pzLVS7mjjgiHIriXg=
 			</data>
 		</dict>
+		<key>on@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IzhBTMRQxXXz2geMZGeulAG60hN8URnr1OrCn1jSuYw=
+			</data>
+		</dict>
 		<key>success@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1208,6 +1223,13 @@
 			<key>hash2</key>
 			<data>
 			GEAuU68Oh8SqNFwL+97tLXdF7pKRGRy3ftYi5zCTMiI=
+			</data>
+		</dict>
+		<key>静音@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FiTZj44811HpF9TrIrU6GCga6ByJjMrR5CwbhMqfnZ0=
 			</data>
 		</dict>
 		<key>高清icon@3x.png</key>
