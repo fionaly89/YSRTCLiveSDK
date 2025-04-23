@@ -60,6 +60,9 @@ NS_ASSUME_NONNULL_BEGIN
 //通知直播组件退出登录
 - (void)logoutLiveSDK;
 
+/// 检查sdk当前状态
+- (YSRTCLiveSDKStatus)checkYSRTCLiveSDKStatus;
+
 @end
 
 NS_ASSUME_NONNULL_END

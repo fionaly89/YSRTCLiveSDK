@@ -37,4 +37,11 @@ typedef enum : NSUInteger {
     ysCompleteType_dismiss //隐藏
 } YSRTCLivePopViewCompleteType;
 
+typedef NS_ENUM(NSUInteger, YSRTCLiveSDKStatus) {
+    YSRTCLiveSDKStatus_none = 0, //未运行
+    YSRTCLiveSDKStatus_configuration, //直播配置中
+    YSRTCLiveSDKStatus_live, //直播中
+    YSRTCLiveSDKStatus_playback, //播放直播回放中
+};
+
 NS_ASSUME_NONNULL_END
