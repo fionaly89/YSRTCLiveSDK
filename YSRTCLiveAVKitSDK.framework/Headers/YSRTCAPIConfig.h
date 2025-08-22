@@ -46,6 +46,14 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong) NSString *live_logo;     // 直播间封面
 @property (nonatomic, strong) NSString *logo_thumbnail;
 @property (nonatomic, strong) NSString *live_title;     // 直播间标题
+@property (nonatomic, weak) UIViewController *currentVC;
+
+@property (nonatomic, assign) int visible_types; // 直播可见类型：1:企业内群聊；2：企业内公开；3：全网公开
+
+//企业可见群聊ID列表，json数组格式 [{"id":"222","name":"abc"},{"id":"333"，,"name":"abc“}] id:群聊ID，name:群聊名称
+@property (nonatomic, strong) NSString *group_id_list;
+
+@property (nonatomic, assign) int max_group_chat_num; //最大群聊数
 
 @end
 
@@ -55,6 +63,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) NSString *account_id; //账号id
 @property (nonatomic, copy) NSString *name; //账号用户名
 @property (nonatomic, copy) NSString *nickName; //账号昵称
+@property (nonatomic, copy) NSString *avatarURL;     // 主播头像的 URL 地址
 
 @end
 
@@ -64,6 +73,13 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) NSString *name;  //String    用户名
 @property (nonatomic, copy) NSString *nickName;  //String    用户昵称
 @property (nonatomic, copy) NSString *headPortraitUrl; //String    用户头像url
+
+@end
+
+@interface YSRTCLiveAppChatAuthInfoModel : NSObject
+
+@property (nonatomic, assign) int authType; //权限主类型
+@property (nonatomic, strong) NSString *authSubName; //模块名称
 
 @end
 

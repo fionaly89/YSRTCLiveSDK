@@ -64,6 +64,26 @@ NS_ASSUME_NONNULL_BEGIN
 //SDK token 失效登出
 - (void)ysrtclive_onVisitorLogOut;
 
+/// 修改直播可见范围
+/// @param liveRoomInfo 权限信息
+/// @param result 授权结果
+- (void)ysrtclive_changeAppChatAuth:(YSRTCLiveRoomInfo *)liveRoomInfo
+                               navi:(UINavigationController *)navi
+                             result:(void(^)(int visible_types, NSString *group_id_list))result;
+
+#pragma mark - 主播音频额外处理
+
+/// 录制开始，初始化资源
+- (void)recoredAudioStart:(NSString *)roomNo liveId:(NSString *)liveId;
+
+/// 录制音频数据回调
+/// @param data 音频数据
+/// @param length 音频数据大小
+- (void)didRecoredAudioData:(void *)data length:(unsigned int)length;
+
+/// 录制结束，释放资源
+- (void)recoredAudioStop;
+
 #pragma mark - 直播间通知
 
 /// 进入直播间回调

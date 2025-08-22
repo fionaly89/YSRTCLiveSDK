@@ -34,6 +34,9 @@ NS_ASSUME_NONNULL_BEGIN
 //SDK 主题色
 @property (nonatomic, strong) UIColor *appThemeColor;
 
+//SDK 不可用主题色
+@property (nonatomic, strong) UIColor *appDisableThemeColor;
+
 @end
 
 NS_ASSUME_NONNULL_END

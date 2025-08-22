@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Back_Bnt@3x.png</key>
+		<data>
+		vUH8rdrTE1jDK/mZaeC0CQgFz5A=
+		</data>
 		<key>Battery@3x.png</key>
 		<data>
 		fsgq5n1R5GsDmqBKsDx3q9rAEVE=
@@ -22,11 +26,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WTVPTq+rCq86kPEGnDH/ZRvNe8Y=
+		RpwF4i+3Bzp5bJZlWEV/S216mys=
 		</data>
 		<key>Mask Group.png</key>
 		<data>
 		9nxrcD/MYjQ0bU1PTo3GREZbxYs=
+		</data>
+		<key>SmallRightArrow@3x.png</key>
+		<data>
+		Hd0hgrU00cZgqqafImJbeyEp6gA=
 		</data>
 		<key>Wi-Fi@3x.png</key>
 		<data>
@@ -121,6 +129,10 @@
 		<data>
 		aywSRhrbVfmZtiuYTkjH+vKnZ5Y=
 		</data>
+		<key>ic_shareBG@3x.png</key>
+		<data>
+		HvTF8ZKJoDmtrvX2EQEFkS2azSg=
+		</data>
 		<key>ic_share_dm_off@3x.png</key>
 		<data>
 		wpEDIjdFivxlmRhUYXQrFJXBZv0=
@@ -213,9 +225,17 @@
 		<data>
 		3OY81bNH63nl6jP0ouQzXHXsk/Y=
 		</data>
+		<key>icn_share@3x.png</key>
+		<data>
+		m4m015FfLlPZR+qyiN6bvtvaHfU=
+		</data>
 		<key>icon-播放@3x.png</key>
 		<data>
 		cS2Ny2P8BEiaQlO2Xxlb+tQp0lI=
+		</data>
+		<key>icons_check_checked.svg</key>
+		<data>
+		aMOGmm7nopzFwGwrDjv1GLy6ZBk=
 		</data>
 		<key>icons_check_checked@3x.png</key>
 		<data>
@@ -257,7 +277,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mqrcN0Iuv2epl/97N9D/tR4gGeI=
+			Rt8ExK95mhWOVltuv7M4lWGq4lI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -281,6 +301,10 @@
 		<key>优惠活动icon@3x.png</key>
 		<data>
 		HVYoDt3yfOFOQj+spFZjTUB58dU=
+		</data>
+		<key>全员禁言@3x.png</key>
+		<data>
+		ZTtQ0a7P6jDkL+1z24AI3oZz9TQ=
 		</data>
 		<key>分享ic@3x.png</key>
 		<data>
@@ -309,6 +333,10 @@
 		<key>定位icon@3x.png</key>
 		<data>
 		QLIIcoGPKlroamIc+D0aMnFUSW8=
+		</data>
+		<key>已选中@3x.png</key>
+		<data>
+		1FfEQUfrlHt8EUOZP2VsjWMU6sM=
 		</data>
 		<key>平均瓜分@3x.png</key>
 		<data>
@@ -357,6 +385,10 @@
 		<key>未中奖图标@3x.png</key>
 		<data>
 		N0+8YKta/lAJgvtQHXJpoZs3i5U=
+		</data>
+		<key>未选中@3x.png</key>
+		<data>
+		pSfKl5cap1xDlIFwTaCVhinfsRI=
 		</data>
 		<key>标清icon@3x.png</key>
 		<data>
@@ -465,6 +497,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Back_Bnt@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nkQyS0wfNTcYP5JG1J6izKzqVSWQPIpEAYQc/EsWu9M=
+			</data>
+		</dict>
 		<key>Battery@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -498,6 +537,13 @@
 			<key>hash2</key>
 			<data>
 			1FiRnvU94cWNossFxNfFnu7sZPQiql9WNVDcymX1x+Q=
+			</data>
+		</dict>
+		<key>SmallRightArrow@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fhuFMAXaw7PGMTSCQHA9f1qWHR8U+1CU2O2M10cTNWU=
 			</data>
 		</dict>
 		<key>Wi-Fi@3x.png</key>
@@ -654,6 +700,13 @@
 			<key>hash2</key>
 			<data>
 			pMuFNJJ8ClJ7MCXEyQHU5WDFwSqrkN8rczUE8KSCPIM=
+			</data>
+		</dict>
+		<key>ic_shareBG@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gsfCtyVCWYM5J62YWPF9NZn05we4gRuihrw7bPgZC7I=
 			</data>
 		</dict>
 		<key>ic_share_dm_off@3x.png</key>
@@ -817,11 +870,25 @@
 			mRy+BoSd4MdKNbp9JDQVu6gW4n6kew/M4jKJ1CBX7Wo=
 			</data>
 		</dict>
+		<key>icn_share@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rgIaAwL+Sq5qTdyVEkkHOXs9WjqCe9SC1RQ1v3SK7EQ=
+			</data>
+		</dict>
 		<key>icon-播放@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			VGE/kFdeiouSaZ5nD0929Q3mFMqJJuR9bW1JlmKE0RM=
+			</data>
+		</dict>
+		<key>icons_check_checked.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rS7dFjgDjWIDyYMANBwcU3DBC1Imn+jICkKj3IARNZ0=
 			</data>
 		</dict>
 		<key>icons_check_checked@3x.png</key>
@@ -891,7 +958,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wFZruAgbjpO/jBJsoXr51mqgGnsBjDLMur6v0Q+EETE=
+			P91h8PyIeh7P6+Uf16kG0h1OAoi6tQXeQxQzbV/Jw+0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -929,6 +996,13 @@
 			<key>hash2</key>
 			<data>
 			qULDcAYuBPkpnhrydMYAIQY67PinNLT9yefhb1eh5Mw=
+			</data>
+		</dict>
+		<key>全员禁言@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wzjEQFyjcMeIENyr3iJSZT+KbmGp3WXmApllk26SrYQ=
 			</data>
 		</dict>
 		<key>分享ic@3x.png</key>
@@ -978,6 +1052,13 @@
 			<key>hash2</key>
 			<data>
 			88U0mB9TfiR7qcPiOU6HbCqe3jp3UUXkswrUYow5ApU=
+			</data>
+		</dict>
+		<key>已选中@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			u1mtammIf+oh05acB1s8HavnXfv/pvUq4XpBs/JwIUc=
 			</data>
 		</dict>
 		<key>平均瓜分@3x.png</key>
@@ -1062,6 +1143,13 @@
 			<key>hash2</key>
 			<data>
 			XI2XSvRhIgVroRftPtlaoWh0lHrLpXirXP7hPWA00sk=
+			</data>
+		</dict>
+		<key>未选中@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iI7BzG3HtGUob/MgoMv7u6WG6qiiACu7rrV+3+OKUNg=
 			</data>
 		</dict>
 		<key>标清icon@3x.png</key>

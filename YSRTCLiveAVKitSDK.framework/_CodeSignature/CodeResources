@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/YSRTCAPIConfig.h</key>
 		<data>
-		rzBciKANzQpZ8PrbfgJagtSt354=
+		JOCpMdMZwDnUlA0eZfEEZxDOmsE=
 		</data>
 		<key>Headers/YSRTCExpressDefines.h</key>
 		<data>
@@ -18,51 +18,15 @@
 		</data>
 		<key>Headers/YSRTCLiveAVKitAVSDK.h</key>
 		<data>
-		PuIgTCABrRWeJUf83Rbm4bLEydk=
+		9K+GqNzua1JhctgMKb2S2zNuFUk=
 		</data>
 		<key>Headers/YSRTCLiveAVKitSDK.h</key>
 		<data>
 		pvFp7wW5ydUDccYrmaKIdxI7eHk=
 		</data>
-		<key>Headers/YSRTCLiveAddLuckyBagConditionTypeView.h</key>
-		<data>
-		sajH3RZIKop3Qe1kdi2IdDcwcoY=
-		</data>
-		<key>Headers/YSRTCLiveAddLuckyBagTimeView.h</key>
-		<data>
-		LHouWChoECk6nW5tWJIJPxyC2Lk=
-		</data>
-		<key>Headers/YSRTCLiveAddLuckyBagView.h</key>
-		<data>
-		EmFjNZj4ZlgJWU/h7Th05NmwrkY=
-		</data>
-		<key>Headers/YSRTCLiveBaseCommonPopCenterView.h</key>
-		<data>
-		iR10rmQn4sbFM73SX/N41GuH35k=
-		</data>
-		<key>Headers/YSRTCLiveBaseCommonPopView.h</key>
-		<data>
-		4yw7+ajSFmCMxrnbFp7tzkSpj0g=
-		</data>
 		<key>Headers/YSRTCLiveDelegate.h</key>
 		<data>
-		UdwTsyJcbRYotsc/lz1z11twWdU=
-		</data>
-		<key>Headers/YSRTCLiveLuckyBagDetailModel.h</key>
-		<data>
-		DPtc2+Eb9uS2A+hWTgysfYSXgLQ=
-		</data>
-		<key>Headers/YSRTCLiveLuckyBagDetailView.h</key>
-		<data>
-		2WxHIjkR4q71hpEseNuVZDIG1IU=
-		</data>
-		<key>Headers/YSRTCLiveLuckyBagOpenResultView.h</key>
-		<data>
-		eVyPXPzbVaGVM9V6p5hSZZxExHY=
-		</data>
-		<key>Headers/YSRTCLiveLuckyBagRequestModel.h</key>
-		<data>
-		y8FgmmotmV8JZdapHFjJ5BEYTmg=
+		xVCHiaXURP2K84PCphXYSiAeDeM=
 		</data>
 		<key>Headers/YSRTCLiveNavigationViewController.h</key>
 		<data>
@@ -74,11 +38,11 @@
 		</data>
 		<key>Headers/YSRTCLiveRoomModel.h</key>
 		<data>
-		LnjHxY25WOhj2wR2RFU2BtAbJ58=
+		Gxw42eyB6B/JtBkitWBoZQqrKJU=
 		</data>
 		<key>Headers/YSRTCLiveSettingModel.h</key>
 		<data>
-		OdiIDy02NExtg7LeQ197ngU0e6s=
+		bp4kaLOvf4qqjrJC8SKT8UAmXhc=
 		</data>
 		<key>Headers/YSRTCMobileRTCAuthService.h</key>
 		<data>
@@ -86,7 +50,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GkquDCBjjZoIZAvSGSE7ewGHFZ4=
+		HHHL/U0M6Pen8FdyGedsgrIgjVU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -94,7 +58,7 @@
 		</data>
 		<key>VCSAudio.bundle/Info.plist</key>
 		<data>
-		jkIVdmm2c7FWE8BRq4tbdJQxDEQ=
+		5YlH9Q3Nf4I5uv4wlIWuMiH7TOI=
 		</data>
 		<key>VCSAudio.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -152,7 +116,7 @@
 		</dict>
 		<key>VCSBeauty.bundle/Info.plist</key>
 		<data>
-		L6OY9NXEcBxYCKBUn1m448jc5RM=
+		Utn4VdT9iDbTj7MSZQ0gRKMnzWo=
 		</data>
 		<key>VCSBeauty.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -214,7 +178,7 @@
 		</dict>
 		<key>VCSDrawing.bundle/Assets.car</key>
 		<data>
-		oBUg6aW7T9Ri/V14NwUzy9uCQlM=
+		+z8b7FCR53Kd6Y4m1D6F6A9y/OU=
 		</data>
 		<key>VCSDrawing.bundle/Base.lproj/VCSWhiteBoardView.nib</key>
 		<dict>
@@ -227,7 +191,7 @@
 		</dict>
 		<key>VCSDrawing.bundle/Info.plist</key>
 		<data>
-		MdN3yPM5PqnpFUrKwVUkY1WTq34=
+		JOgvzWJGrcGBUaaCjYqEpPHeGpQ=
 		</data>
 		<key>VCSDrawing.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -339,7 +303,7 @@
 		</dict>
 		<key>VCSLogger.bundle/Info.plist</key>
 		<data>
-		IP+uDjExBFm6ISXi6HhknAhGmfc=
+		DU/U5kGJyCRMnfFHrWO3aW7qDvk=
 		</data>
 		<key>VCSLogger.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -397,7 +361,7 @@
 		</dict>
 		<key>VCSLogin.bundle/Info.plist</key>
 		<data>
-		QTWFR0dP1IWGKoNnCn/rxhCYhdI=
+		oY98PpMFjTCkMCMpHxPWXuxTNN0=
 		</data>
 		<key>VCSLogin.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -455,7 +419,7 @@
 		</dict>
 		<key>VCSMessage.bundle/Info.plist</key>
 		<data>
-		chMeECcwBPPSfJA/WXgPkCz9tE8=
+		/V6yT0MeufhzC0KOfchGr5U9yj4=
 		</data>
 		<key>VCSMessage.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -513,7 +477,7 @@
 		</dict>
 		<key>VCSNetCall.bundle/Info.plist</key>
 		<data>
-		HzA8bezVNcMCLtvku6rm0bNnluQ=
+		1lcfs8649ZIytQ0b4FPSishadn8=
 		</data>
 		<key>VCSNetCall.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -571,7 +535,7 @@
 		</dict>
 		<key>VCSSDK.bundle/Info.plist</key>
 		<data>
-		dEBmzxN8s+kOtU65jp1z7CCjvbw=
+		Ol+PyK5865PFYHVFyINYcLp+iIA=
 		</data>
 		<key>VCSSDK.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -821,11 +785,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rzBciKANzQpZ8PrbfgJagtSt354=
+			JOCpMdMZwDnUlA0eZfEEZxDOmsE=
 			</data>
 			<key>hash2</key>
 			<data>
-			tdWVNdkCHCUOkA6dSk6R2Y7ZIyPYzNUJJnlgj9xQ/+4=
+			QnNtEJUD5MGcDjKedlXJHXQhP2vi57w/dVqkzpEae68=
 			</data>
 		</dict>
 		<key>Headers/YSRTCExpressDefines.h</key>
@@ -843,11 +807,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PuIgTCABrRWeJUf83Rbm4bLEydk=
+			9K+GqNzua1JhctgMKb2S2zNuFUk=
 			</data>
 			<key>hash2</key>
 			<data>
-			mC2h7NE7pPumrhD4Wf15VsP8fZSXzGVNeKib7BxAEVI=
+			86o/6abhOIrD0ikX5DkNJn7q4qErGnSFcv2mdoFx1j0=
 			</data>
 		</dict>
 		<key>Headers/YSRTCLiveAVKitSDK.h</key>
@@ -861,114 +825,15 @@
 			3Ynph1trmziT96fu6ZpQR54OWLTZrQrzvd+zwi+jrH4=
 			</data>
 		</dict>
-		<key>Headers/YSRTCLiveAddLuckyBagConditionTypeView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sajH3RZIKop3Qe1kdi2IdDcwcoY=
-			</data>
-			<key>hash2</key>
-			<data>
-			JiH7Isf91wwC9ZjKJZUoztcjCipHjLjHaYcrrtgo4So=
-			</data>
-		</dict>
-		<key>Headers/YSRTCLiveAddLuckyBagTimeView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LHouWChoECk6nW5tWJIJPxyC2Lk=
-			</data>
-			<key>hash2</key>
-			<data>
-			tEADZR342eekE1dRava3VA5ELnccsGXLoONbyY9f/5c=
-			</data>
-		</dict>
-		<key>Headers/YSRTCLiveAddLuckyBagView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EmFjNZj4ZlgJWU/h7Th05NmwrkY=
-			</data>
-			<key>hash2</key>
-			<data>
-			tSVL/e+aZqCpYRrHjL3kldzHtGxlM+Acuc9CD95sVlQ=
-			</data>
-		</dict>
-		<key>Headers/YSRTCLiveBaseCommonPopCenterView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iR10rmQn4sbFM73SX/N41GuH35k=
-			</data>
-			<key>hash2</key>
-			<data>
-			JAAEQn0FG1fg19FUsULsKVua3mTnEDzy15dN4Z1Alg8=
-			</data>
-		</dict>
-		<key>Headers/YSRTCLiveBaseCommonPopView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4yw7+ajSFmCMxrnbFp7tzkSpj0g=
-			</data>
-			<key>hash2</key>
-			<data>
-			8kjXawaqZMDINT3B8Q0h3PCijLRkQA5du1phd0FWDHQ=
-			</data>
-		</dict>
 		<key>Headers/YSRTCLiveDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UdwTsyJcbRYotsc/lz1z11twWdU=
+			xVCHiaXURP2K84PCphXYSiAeDeM=
 			</data>
 			<key>hash2</key>
 			<data>
-			oKjMDXrsF2PwVSW1KxLnJwpVr6u5mKEuR/e98NpZMzU=
-			</data>
-		</dict>
-		<key>Headers/YSRTCLiveLuckyBagDetailModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DPtc2+Eb9uS2A+hWTgysfYSXgLQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			6lj65Hx4czPt9ratVZ1C6H7saLoxlbSARu2pRYDVEgE=
-			</data>
-		</dict>
-		<key>Headers/YSRTCLiveLuckyBagDetailView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2WxHIjkR4q71hpEseNuVZDIG1IU=
-			</data>
-			<key>hash2</key>
-			<data>
-			G8Cre6oNyM4BnpIKh7t09v5Ey/A0kw3Hl7D4qtDz30g=
-			</data>
-		</dict>
-		<key>Headers/YSRTCLiveLuckyBagOpenResultView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eVyPXPzbVaGVM9V6p5hSZZxExHY=
-			</data>
-			<key>hash2</key>
-			<data>
-			3iwBdqYOYGQk7o1a+wI9NpZwvJ36G6KGJnOy2oT9LQE=
-			</data>
-		</dict>
-		<key>Headers/YSRTCLiveLuckyBagRequestModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			y8FgmmotmV8JZdapHFjJ5BEYTmg=
-			</data>
-			<key>hash2</key>
-			<data>
-			3boKfciMmfQfcU4Cn5KL7fhWLXOYsCJTYP/vXRyiRLc=
+			/Ckwslk6SA7GBq3RJICPXwVRgelasT8T8Nepf60x/fY=
 			</data>
 		</dict>
 		<key>Headers/YSRTCLiveNavigationViewController.h</key>
@@ -997,22 +862,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LnjHxY25WOhj2wR2RFU2BtAbJ58=
+			Gxw42eyB6B/JtBkitWBoZQqrKJU=
 			</data>
 			<key>hash2</key>
 			<data>
-			3B2y2ID9NPbU5l9fWvsYxUZV9mTfoOe5CyWeGjXNI/Q=
+			SQiN1sPIsfIxGBzRPyMtDtqryvIREqkC+3ji1AIqzA0=
 			</data>
 		</dict>
 		<key>Headers/YSRTCLiveSettingModel.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OdiIDy02NExtg7LeQ197ngU0e6s=
+			bp4kaLOvf4qqjrJC8SKT8UAmXhc=
 			</data>
 			<key>hash2</key>
 			<data>
-			9OMYBKZ4HnDeidQMEwVRtWlnVR7pEHb8wPvIX/9GFrs=
+			EOeSQq4A/tHpCoPrd4aCQGsRIIYiXdrqosHOb+hMPfk=
 			</data>
 		</dict>
 		<key>Headers/YSRTCMobileRTCAuthService.h</key>
@@ -1041,11 +906,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jkIVdmm2c7FWE8BRq4tbdJQxDEQ=
+			5YlH9Q3Nf4I5uv4wlIWuMiH7TOI=
 			</data>
 			<key>hash2</key>
 			<data>
-			RuQM5tb7udDMGo+GmMr6b9qfQ1phsiKpbMJzz5mCG2Y=
+			MJKeuR1gAIiXaUkKbYwmpsQM6sOGtMRXxmIwFu+do84=
 			</data>
 		</dict>
 		<key>VCSAudio.bundle/en.lproj/Localizable.strings</key>
@@ -1130,11 +995,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L6OY9NXEcBxYCKBUn1m448jc5RM=
+			Utn4VdT9iDbTj7MSZQ0gRKMnzWo=
 			</data>
 			<key>hash2</key>
 			<data>
-			JSU7VPZYpUCxnJmY+G8XvcE5qFISOJzr9Lkiv933AaI=
+			G5GKRwt+98hxVdt5J55FoRemnvRg4oTG7XqjEBNGgmo=
 			</data>
 		</dict>
 		<key>VCSBeauty.bundle/en.lproj/Localizable.strings</key>
@@ -1230,11 +1095,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oBUg6aW7T9Ri/V14NwUzy9uCQlM=
+			+z8b7FCR53Kd6Y4m1D6F6A9y/OU=
 			</data>
 			<key>hash2</key>
 			<data>
-			XnFOe5kjAO7/U0ZwBWH3MnybVaSkWPC5z6fpE86KCPg=
+			YQOEMO2aa+v+GOzk9V4Bx0zRIlzymw5RS6Y1MoDfGzQ=
 			</data>
 		</dict>
 		<key>VCSDrawing.bundle/Base.lproj/VCSWhiteBoardView.nib</key>
@@ -1254,11 +1119,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MdN3yPM5PqnpFUrKwVUkY1WTq34=
+			JOgvzWJGrcGBUaaCjYqEpPHeGpQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			ppNWL+5k8RqH3hCVa4pVfxVAWRxVhKX76T93SUGMcOk=
+			8w52cHYOkeFjUTMtLLwwIybSP4e/8eTt4iEiXspuWBI=
 			</data>
 		</dict>
 		<key>VCSDrawing.bundle/en.lproj/Localizable.strings</key>
@@ -1421,11 +1286,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IP+uDjExBFm6ISXi6HhknAhGmfc=
+			DU/U5kGJyCRMnfFHrWO3aW7qDvk=
 			</data>
 			<key>hash2</key>
 			<data>
-			TFAi47SKn6kvLDHAAcSbz8j2qjsPTp86rQkUQbF0xkE=
+			O0H7BOytquBWJlqwI9Nc+R9/e+axLCL+b+ddgrYoZ1k=
 			</data>
 		</dict>
 		<key>VCSLogger.bundle/en.lproj/Localizable.strings</key>
@@ -1510,11 +1375,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QTWFR0dP1IWGKoNnCn/rxhCYhdI=
+			oY98PpMFjTCkMCMpHxPWXuxTNN0=
 			</data>
 			<key>hash2</key>
 			<data>
-			lyOoW0PH6uI9Z0s0nlUOHVQeL2iQAmDMgINsEir/X/o=
+			+78xmBP0JXyETYyg+n1ehEOBbg+t9tiybJHF7TVYU9Q=
 			</data>
 		</dict>
 		<key>VCSLogin.bundle/en.lproj/Localizable.strings</key>
@@ -1599,11 +1464,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			chMeECcwBPPSfJA/WXgPkCz9tE8=
+			/V6yT0MeufhzC0KOfchGr5U9yj4=
 			</data>
 			<key>hash2</key>
 			<data>
-			10Nu/WbyBZM4hVpAQfhWGq832EOgzJ7AKDno+XzCC1Q=
+			U+VDLeCGZcv+C7bvEL9lcsylyvM5fJXRG0gt6TqNt/s=
 			</data>
 		</dict>
 		<key>VCSMessage.bundle/en.lproj/Localizable.strings</key>
@@ -1688,11 +1553,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HzA8bezVNcMCLtvku6rm0bNnluQ=
+			1lcfs8649ZIytQ0b4FPSishadn8=
 			</data>
 			<key>hash2</key>
 			<data>
-			XwT13bjggyzPHAl7Yj5ksBnCs6a7FfwXJ4eVD651bbA=
+			LxFQ+ppz7VEDvqM2QurkhEybKjDfBn8/ylqwbH25wlQ=
 			</data>
 		</dict>
 		<key>VCSNetCall.bundle/en.lproj/Localizable.strings</key>
@@ -1777,11 +1642,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dEBmzxN8s+kOtU65jp1z7CCjvbw=
+			Ol+PyK5865PFYHVFyINYcLp+iIA=
 			</data>
 			<key>hash2</key>
 			<data>
-			wbpccXjFlvwhgq518bfC3oidcAJK/bsXrQ2GTa2yYz8=
+			U+eApRh1QZXgwJlR+rawHP2ZMKQUmm+Sf1ysiWJHcPs=
 			</data>
 		</dict>
 		<key>VCSSDK.bundle/en.lproj/Localizable.strings</key>

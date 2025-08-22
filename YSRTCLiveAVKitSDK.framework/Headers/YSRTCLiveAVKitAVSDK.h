@@ -60,6 +60,13 @@ NS_ASSUME_NONNULL_BEGIN
 //通知直播组件退出登录
 - (void)logoutLiveSDK;
 
+/// 切换服务地址
+/// @param domain 服务地址，eg: https://www.example.com:8888
+- (void)switchServiceDomain:(NSString *)domain;
+
+/// 用户当前企业信息发生了变更
+- (void)switchAccountCorpInfo;
+
 /// 检查sdk当前状态
 - (YSRTCLiveSDKStatus)checkYSRTCLiveSDKStatus;
 

@@ -16,6 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 //（0：待开播；1：直播中；2：直播暂停；3：已结束；4：删除）
 typedef enum : NSUInteger {
+    Status_init = -1, //已初始化
     Status_ready = 0, //待开播
     Status_play, //直播中
     Status_pause, //暂停中
@@ -39,6 +40,12 @@ typedef enum : NSUInteger {
 @property (nonatomic, strong) NSString *category_id; //直播间分类
 @property (nonatomic, strong) NSString *logo; //直播间logo
 @property (nonatomic, assign) int live_res; // 直播清晰度：1：高清（720p）；2：超清(1080p)；3：标清（480p）
+
+@property (nonatomic, assign) int visible_types; // 直播可见类型：1:企业内群聊；2：企业内公开；3：全网公开
+
+//企业可见群聊ID列表，json数组格式 [{"id":"222","name":"abc"},{"id":"333"，,"name":"abc“}] id:群聊ID，name:群聊名称
+@property (nonatomic, strong) NSString *group_id_list;
+@property (nonatomic, assign) int max_group_chat_num; //最大群聊数
 
 @property (nonatomic, strong) YSRTCLiveVCRoomModel *room; //会议房间
 
