@@ -39,6 +39,7 @@ typedef enum : NSUInteger {
 @property (nonatomic, strong) NSString *room_no; //直播会议房间号
 @property (nonatomic, strong) NSString *category_id; //直播间分类
 @property (nonatomic, strong) NSString *logo; //直播间logo
+@property (nonatomic, strong) NSString *logo_thumbnail; //直播间logo
 @property (nonatomic, assign) int live_res; // 直播清晰度：1：高清（720p）；2：超清(1080p)；3：标清（480p）
 
 @property (nonatomic, assign) int visible_types; // 直播可见类型：1:企业内群聊；2：企业内公开；3：全网公开
