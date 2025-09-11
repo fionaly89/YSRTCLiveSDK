@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		50s/9r8XKu9SkYCtZNjgrt2KZlM=
+		7ekKsxWW5nfERypMFFGxoPD43KI=
 		</data>
 		<key>Mask Group.png</key>
 		<data>
@@ -277,7 +277,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wvK795CfHEuGf0y3JFwPjpDcuY4=
+			9jWciYFJ4j4kiSoc04yvh1MD7Dw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -374,6 +374,10 @@
 		<data>
 		4SpkyVIpSEzm3QjefVumuZnJFxE=
 		</data>
+		<key>播放-觅讯@3x.png</key>
+		<data>
+		HtTNj/pVNCPzcFGf4CcLYCgkEBg=
+		</data>
 		<key>播放-黑色@3x.png</key>
 		<data>
 		8MuX3UEo+1lWpGdzrDoogFLlAak=
@@ -381,6 +385,10 @@
 		<key>数字加-number add@3x.png</key>
 		<data>
 		uKgpXJ+EGishJsgu3QUasEDJbXE=
+		</data>
+		<key>数字加-number_mixun@3x.png</key>
+		<data>
+		BLBiBReuxpUf7N/bwPhTumP6ejY=
 		</data>
 		<key>未中奖图标@3x.png</key>
 		<data>
@@ -958,7 +966,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dPZGLFxl7oDqSoJK1/MlXaUl2iAV7J8Kz5vaOWYPhZo=
+			B+RBdv28vUwc8zZ/kkekEuqA2vfQXpsp1SGCNBjPa5A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1124,6 +1132,13 @@
 			EbJzQV2n41Ev40EvVlm9xQnU58PBGPuoI3GeLrMk7eE=
 			</data>
 		</dict>
+		<key>播放-觅讯@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cAFUGxS/pZjs0ndoz2IXIZTbDCd+5ZII+Wo6qu+IJto=
+			</data>
+		</dict>
 		<key>播放-黑色@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1136,6 +1151,13 @@
 			<key>hash2</key>
 			<data>
 			lTJe8aYUzqB5XZ0l+iqQKmmwu+T+kNg7iXOBGoT8czs=
+			</data>
+		</dict>
+		<key>数字加-number_mixun@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SIxf6P3+E9gC2msvemmLlItI4yxkogV4Qrl6VJ1fBd4=
 			</data>
 		</dict>
 		<key>未中奖图标@3x.png</key>

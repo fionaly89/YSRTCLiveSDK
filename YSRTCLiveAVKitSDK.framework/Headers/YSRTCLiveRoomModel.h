@@ -49,6 +49,7 @@ typedef enum : NSUInteger {
 @property (nonatomic, assign) int max_group_chat_num; //最大群聊数
 
 @property (nonatomic, strong) YSRTCLiveVCRoomModel *room; //会议房间
+@property (nonatomic, assign) int enable_live_recording; //1:开启直播录像；0：关闭直播录像
 
 @end
 
