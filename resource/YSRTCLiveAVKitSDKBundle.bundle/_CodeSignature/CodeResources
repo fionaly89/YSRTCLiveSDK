@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		guW+nkqOW9mWFzQEBU/Jxl9abH8=
+		ILwoX71upo+XjIpICvi4LbCUTQU=
 		</data>
 		<key>Mask Group.png</key>
 		<data>
@@ -265,6 +265,14 @@
 		<data>
 		ig1QlCw+pHWgW5cPezA0ClkaQ2A=
 		</data>
+		<key>switch_Slide_Off@3x.png</key>
+		<data>
+		J+CcT76PU/9INgFk9bRASWsLvRc=
+		</data>
+		<key>switch_Slide_On@3x.png</key>
+		<data>
+		n3ucVnqO/yfVxiByOHOeKeoLGUY=
+		</data>
 		<key>switch_off@3x.png</key>
 		<data>
 		s5sPamZ9BpbKzB+fQ3mujdlsZik=
@@ -301,6 +309,26 @@
 		<key>优惠活动icon@3x.png</key>
 		<data>
 		HVYoDt3yfOFOQj+spFZjTUB58dU=
+		</data>
+		<key>信号_中@3x.png</key>
+		<data>
+		ijeSPxLfsrI0kXldQbH/4OUFYcc=
+		</data>
+		<key>信号_好@3x.png</key>
+		<data>
+		h1b98lCfVcflBhetCYbXQA/m+CU=
+		</data>
+		<key>信号_差@3x.png</key>
+		<data>
+		36wVELMHlEoB58wbhJkHL8NKwEk=
+		</data>
+		<key>信号_异常@3x.png</key>
+		<data>
+		2ctxz+z2sI0sp1FTg/Xe3wsvVe8=
+		</data>
+		<key>信号_较差@3x.png</key>
+		<data>
+		cgr9tnmWTkTkEb5umuvyAoct6f8=
 		</data>
 		<key>全员禁言@3x.png</key>
 		<data>
@@ -948,6 +976,20 @@
 			lwNptIGM/psCjUC9nytWgttP81Iax982xCr6rY2Bg/U=
 			</data>
 		</dict>
+		<key>switch_Slide_Off@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HtvlS2S/bt3VKvfNJqs1pCDQl/bOSgZX3xEZF2vsbcU=
+			</data>
+		</dict>
+		<key>switch_Slide_On@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bm+fu2gZwu4AZvE6fyZKPvbMjn5Qw7fA5KJXrwtMC7M=
+			</data>
+		</dict>
 		<key>switch_off@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1004,6 +1046,41 @@
 			<key>hash2</key>
 			<data>
 			qULDcAYuBPkpnhrydMYAIQY67PinNLT9yefhb1eh5Mw=
+			</data>
+		</dict>
+		<key>信号_中@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3fZ3FPtsiNFKjeNhs7h/Nwaq0mJE+h9F7p1iI6bJDAo=
+			</data>
+		</dict>
+		<key>信号_好@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7u7D7izQ4/aJHss39eBUlWWpm8R9OPH2Lsnpsj0Ax6A=
+			</data>
+		</dict>
+		<key>信号_差@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5kCvRd4iSDVfqtHgwLXRfiu/B7mHklAvCRRjdykbWis=
+			</data>
+		</dict>
+		<key>信号_异常@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qTc4jU46xbRFDnVF3f5JodKRYl8nv7lqTEkTnbjdTOs=
+			</data>
+		</dict>
+		<key>信号_较差@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BOtu68EUi2gRmQec6BIqNfHG/a9LJuAVmogtGyEi5fs=
 			</data>
 		</dict>
 		<key>全员禁言@3x.png</key>
