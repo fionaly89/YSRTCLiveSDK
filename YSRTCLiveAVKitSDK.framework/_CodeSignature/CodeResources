@@ -50,7 +50,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		p6HdcLXdRwH2lew1uHBobuby2fg=
+		9C9jIMMcCcSjhl+KkR6wVTO4+O8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>VCSAudio.bundle/Info.plist</key>
 		<data>
-		FXWnMTyLEhCOK8lMheCkn/GB1Zo=
+		IbFOGFS0Xg9o3wMplSzX2YZUyE8=
 		</data>
 		<key>VCSAudio.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -116,7 +116,7 @@
 		</dict>
 		<key>VCSBeauty.bundle/Info.plist</key>
 		<data>
-		KJnnf4KkD1S/PyP9SAGxORk75yY=
+		j3icv0YMDUmrIQhprWBlmZ7QA+U=
 		</data>
 		<key>VCSBeauty.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -178,7 +178,7 @@
 		</dict>
 		<key>VCSDrawing.bundle/Assets.car</key>
 		<data>
-		db4LZSU5rzKT7W+yqmSNbvSXXDA=
+		e4xdp4iDfNX0MK9LReD9NPTWHgc=
 		</data>
 		<key>VCSDrawing.bundle/Base.lproj/VCSWhiteBoardView.nib</key>
 		<dict>
@@ -191,7 +191,7 @@
 		</dict>
 		<key>VCSDrawing.bundle/Info.plist</key>
 		<data>
-		76Z7y/k3P31N0ZS2kHGTCUpMHI4=
+		xul3qla5pfPZjeNRtillqOldLqE=
 		</data>
 		<key>VCSDrawing.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -303,7 +303,7 @@
 		</dict>
 		<key>VCSLogger.bundle/Info.plist</key>
 		<data>
-		68pYkTbwbjHp7sN3aebmzRzPPeQ=
+		UZhUF1ednnRqPEQcitvO/5oOdZQ=
 		</data>
 		<key>VCSLogger.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -361,7 +361,7 @@
 		</dict>
 		<key>VCSLogin.bundle/Info.plist</key>
 		<data>
-		5TA6d8qF1TtqDaGcf8hoKKkQJjQ=
+		0Kw8VSJl0O2d/JPsc0HVU2E2xf4=
 		</data>
 		<key>VCSLogin.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -419,7 +419,7 @@
 		</dict>
 		<key>VCSMessage.bundle/Info.plist</key>
 		<data>
-		pEsyZuIpvKEXWQLdEZMxalffU5c=
+		jFr6JWIff1Fa+20qdghC55W0z/0=
 		</data>
 		<key>VCSMessage.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -477,7 +477,7 @@
 		</dict>
 		<key>VCSNetCall.bundle/Info.plist</key>
 		<data>
-		5Ut3U42yUkhjNBKTG4Vl9K41Gag=
+		nrp3FNYrqAByddJEEpwC8keJb3I=
 		</data>
 		<key>VCSNetCall.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -535,7 +535,7 @@
 		</dict>
 		<key>VCSSDK.bundle/Info.plist</key>
 		<data>
-		t32SjUFDUSd+/MxD89maOrjccME=
+		dfBsoJZ0QFKVRRrGEvMjJ1r0Zg8=
 		</data>
 		<key>VCSSDK.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -858,7 +858,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7wT5Pksl0N9ho8ggzyI1+cbuXdhEunJXetlD+Y57ioo=
+			KzKCPlI67yJ6pG6/V9KN/ScbgH6pQpms5hu4ky8yctg=
 			</data>
 		</dict>
 		<key>VCSAudio.bundle/en.lproj/Localizable.strings</key>
@@ -919,7 +919,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JI5pV2+hQ4AV63tXWnWETK5M6vvyYa/2TB/b0+6kW7Y=
+			TD2euo+RCZXijRo4NER51iW2rlmgSwefGGLEZuOHD20=
 			</data>
 		</dict>
 		<key>VCSBeauty.bundle/en.lproj/Localizable.strings</key>
@@ -987,7 +987,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XBI7U2SD8PAewLh3iRHFL0BemEAc0h9vFe83THQo3/I=
+			y5IbMCCm+nn86UkXQdijCIyz9AIaFptHrWLDaVTsxeA=
 			</data>
 		</dict>
 		<key>VCSDrawing.bundle/Base.lproj/VCSWhiteBoardView.nib</key>
@@ -1003,7 +1003,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3LN/LeNrTXrRVL6v+3xvOalAWrVdZiziVZ9mlyh7Wk0=
+			P0pEoUBZhTjVvauzgsjw8ClrpHg9K0BE4/3/3joJ23Y=
 			</data>
 		</dict>
 		<key>VCSDrawing.bundle/en.lproj/Localizable.strings</key>
@@ -1118,7 +1118,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LbnzN68wFPLYo9VyL0frW8tUU2pWItxkXqJncxG6X40=
+			PoLRRyKPWT6dCpUwp4IOzqOSQQyuxYnl2yfASA9xeDk=
 			</data>
 		</dict>
 		<key>VCSLogger.bundle/en.lproj/Localizable.strings</key>
@@ -1179,7 +1179,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4g6Bb7PTSOZNABwAVmBOAn8Zzt7qP4XLM+lASKiYYwY=
+			D9SQJ7hVh5tgE+9m8vEe//H0YSQZeslQSidry7bkqRk=
 			</data>
 		</dict>
 		<key>VCSLogin.bundle/en.lproj/Localizable.strings</key>
@@ -1240,7 +1240,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gGyQKM1mtucrBeTM3XLXGEr1uQcHaJDla7ZATjP42QI=
+			1+nuRgjlwsp2QFbS/6LT+BjF0LcRdXUkAQENRuBvHJw=
 			</data>
 		</dict>
 		<key>VCSMessage.bundle/en.lproj/Localizable.strings</key>
@@ -1301,7 +1301,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zDYlwFeqTMF7JgHXS1ImNJ4rjB96ZqLEa1aCTGLY/Ak=
+			Ks9dLMTrgEQxSnPemeiOoU0KONxt8tDJOgLr+bxaQCU=
 			</data>
 		</dict>
 		<key>VCSNetCall.bundle/en.lproj/Localizable.strings</key>
@@ -1362,7 +1362,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gepDwOtaDC1HqrZdPMEjNnNcqBhiRgU1OggZI6dndhM=
+			iDcqTL81vzDcr4O1l9Y6aeyrPjg1CiWwbJ12zYoKoMA=
 			</data>
 		</dict>
 		<key>VCSSDK.bundle/en.lproj/Localizable.strings</key>
