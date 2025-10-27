@@ -37,6 +37,10 @@ NS_ASSUME_NONNULL_BEGIN
 //SDK 不可用主题色
 @property (nonatomic, strong) UIColor *appDisableThemeColor;
 
+#pragma mark - 美颜模块key
+@property (nonatomic, assign) char *authData; //authData 密钥地址
+@property (nonatomic, assign) int authDataSize; //authDataSize 密钥长度
+
 @end
 
 NS_ASSUME_NONNULL_END
