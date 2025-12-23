@@ -86,6 +86,11 @@ NS_ASSUME_NONNULL_BEGIN
 
 #pragma mark - 直播间通知
 
+/// 直播间开播回调
+/// @param liveRoomInfo 直播间信息
+/// @param streamerInfo 主播信息
+- (void)onStartYSRTCLiveRoom:(YSRTCLiveRoomInfo *)liveRoomInfo streamerInfo:(YSRTCLiveRoomAccountInfo *)streamerInfo;
+
 /// 进入直播间回调
 /// @param liveRoomInfo 直播间信息
 - (void)onEnterYSRTCLiveRoom:(YSRTCLiveRoomInfo *)liveRoomInfo;

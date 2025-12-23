@@ -54,6 +54,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong) NSString *group_id_list;
 
 @property (nonatomic, assign) int max_group_chat_num; //最大群聊数
+@property (nonatomic, strong) NSString *im_session_id; //是否是关联群聊的直播
 
 @end
 

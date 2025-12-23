@@ -51,6 +51,8 @@ typedef enum : NSInteger {
 @property (nonatomic, strong) YSRTCLiveVCRoomModel *room; //会议房间
 @property (nonatomic, assign) int enable_live_recording; //1:开启直播录像；0：关闭直播录像
 
+@property (nonatomic, strong) NSString *im_session_id; //是否是关联群聊的直播
+
 @end
 
 NS_ASSUME_NONNULL_END
