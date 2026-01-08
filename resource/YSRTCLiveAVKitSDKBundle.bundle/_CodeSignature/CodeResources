@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		mBHJR3GIKyE+JRlEaKnOiOVL6OY=
+		gf61I4SYcL5FyrV4IXPrXjKMgJc=
 		</data>
 		<key>LandscapePIP@3x.png</key>
 		<data>
@@ -272,6 +272,10 @@
 		<key>on@3x.png</key>
 		<data>
 		tHw1vST/BEzriEWkHWyE3ini20Q=
+		</data>
+		<key>pip_live_pause@3x.png</key>
+		<data>
+		oonU0Iv4xvFiLHstZM/nPGIjlSs=
 		</data>
 		<key>success@3x.png</key>
 		<data>
@@ -1000,6 +1004,13 @@
 			<key>hash2</key>
 			<data>
 			IzhBTMRQxXXz2geMZGeulAG60hN8URnr1OrCn1jSuYw=
+			</data>
+		</dict>
+		<key>pip_live_pause@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			72yIqrAgyr2jZKMM/tJuEKpMOLUTzW+P00mdfMgAWk8=
 			</data>
 		</dict>
 		<key>success@3x.png</key>
