@@ -82,6 +82,9 @@ NS_ASSUME_NONNULL_BEGIN
 /// 用户当前企业信息发生了变更
 - (void)switchAccountCorpInfo;
 
+/// 触发直播开启app内小窗口操作
+- (void)toggleStartFloatingWindow;
+
 /// 触发直播app内小窗口全屏操作
 - (void)toggleFloatingVideoFullscreen;
 
