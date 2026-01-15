@@ -7,6 +7,7 @@
 //
 
 #import "RTCEnum.h"
+#import "RTCErrorCode.h"
 #import "YSRTCLiveDelegate.h"
 #import "YSRTCMobileRTCAuthService.h"
 #import "YSRTCLiveSettingModel.h"
