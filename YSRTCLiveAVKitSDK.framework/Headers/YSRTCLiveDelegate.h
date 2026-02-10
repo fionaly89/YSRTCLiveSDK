@@ -71,6 +71,14 @@ NS_ASSUME_NONNULL_BEGIN
                                navi:(UINavigationController *)navi
                              result:(void(^)(int visible_types, NSString *group_id_list))result;
 
+/// 云存储事件回调
+/// @param action 1:升级会员，2:清理云盘
+/// @param liveRoomInfo 当前直播间信息
+/// @param navi 导航控制器
+- (void)ysrtclive_cloudStorageAction:(int)action
+                        liveRoomInfo:(YSRTCLiveRoomInfo *)liveRoomInfo
+                                navi:(UINavigationController *)navi;
+
 #pragma mark - 主播音频额外处理
 
 /// 录制开始，初始化资源
